@@ -1,0 +1,4530 @@
+[
+  {
+    "question": "Waves transmit ________ from one place to another.",
+    "A": "Energy",
+    "B": "Mass",
+    "C": "Both",
+    "D": "None of these",
+    "Correct": "Energy"
+  },
+  {
+    "question": "The waves that require a material medium for their propagation are called",
+    "A": "Matter waves",
+    "B": "Electromagnetic waves",
+    "C": "Carrier waves",
+    "D": "Mechanical waves",
+    "Correct": "Mechanical waves"
+  },
+  {
+    "question": "According to Laplace correction sound travel in air under the conditions of",
+    "A": "Adiabatic",
+    "B": "Isothermal",
+    "C": "Isobaric",
+    "D": "Isochoric",
+    "Correct": "Adiabatic"
+  },
+  {
+    "question": "Laplace expression for speed of sound in a gase is:",
+    "A": "𝑣 = 𝑃 / 𝜌",
+    "B": "𝑣 = 𝑃 / 𝜌",
+    "C": "𝑣 = 𝛾𝑃 / 𝜌",
+    "D": "𝑣 = 𝛾𝜌 / 𝑃",
+    "Correct": "𝑣 = 𝛾𝑃 / 𝜌"
+  },
+  {
+    "question": "The example of mechanical waves is:",
+    "A": "Water and air waves",
+    "B": "Radio waves",
+    "C": "Infrared waves",
+    "D": "Ultra violet waves",
+    "Correct": "Water and air waves"
+  },
+  {
+    "question": "Sound waves cannot travel through:",
+    "A": "Air",
+    "B": "Water",
+    "C": "Material medium",
+    "D": "Vacuum",
+    "Correct": "Vacuum"
+  },
+  {
+    "question": "Sound waves do not travel in vacuum because",
+    "A": "They are transverse waves",
+    "B": "They are stationary waves",
+    "C": "They require material medium for propagation",
+    "D": "They do not have enough energy",
+    "Correct": "They require material medium for propagation"
+  },
+  {
+    "question": "If the pressure of the gas is doubled, then the speed of sound:",
+    "A": "Also doubled",
+    "B": "Becomes half",
+    "C": "Not affected",
+    "D": "Increases four times",
+    "Correct": "Not affected"
+  },
+  {
+    "question": "The speed of sound in air at 30°𝐶 is approximately equal to:",
+    "A": "332 𝑚𝑠−1",
+    "B": "335 𝑚𝑠−1",
+    "C": "340 𝑚𝑠−1",
+    "D": "345 𝑚𝑠−1",
+    "Correct": "340 𝑚𝑠−1"
+  },
+  {
+    "question": "The velocity of sound in vacuum is:",
+    "A": "332 𝑚𝑠−1",
+    "B": "333 𝑚𝑠−1",
+    "C": "280 𝑚𝑠−1",
+    "D": "0 𝑚𝑠−1",
+    "Correct": "0 𝑚𝑠−1"
+  },
+  {
+    "question": "The speed of sound in air at 0°𝐶 is 332 𝑚𝑠−1. The speed at 2°𝐶 will be:",
+    "A": "330 𝑚𝑠−1",
+    "B": "333.2 𝑚𝑠−1",
+    "C": "335 𝑚𝑠−1",
+    "D": "None of these",
+    "Correct": "333.2 𝑚𝑠−1"
+  },
+  {
+    "question": "Increase in velocity of sound in air for 1°𝐶 rise in temperature is:",
+    "A": "0.61 𝑚𝑠−1",
+    "B": "61 𝑚𝑠−1",
+    "C": "1.61 𝑚𝑠−1",
+    "D": "2 𝑚𝑠−1",
+    "Correct": "0.61 𝑚𝑠−1"
+  },
+  {
+    "question": "The speed of sound is greater in solids than in gases due to high value of:",
+    "A": "Density",
+    "B": "Pressure",
+    "C": "Elasticity",
+    "D": "Temperature",
+    "Correct": "Elasticity"
+  },
+  {
+    "question": "The wave speed of a wave in terms of its wavelength 𝜆 and period T is:",
+    "A": "v = 𝜆 T",
+    "B": "v = 𝜆 T²",
+    "C": "v = 𝜆 / T",
+    "D": "v = T / 𝜆",
+    "Correct": "v = 𝜆 / T"
+  },
+  {
+    "question": "The distance between any two consecutive crests or troughs is called",
+    "A": "Frequency",
+    "B": "Period",
+    "C": "Wave length",
+    "D": "Phase difference",
+    "Correct": "Wave length"
+  },
+  {
+    "question": "In a transverse wave the distance between a crest and a trough is equal to:",
+    "A": "𝜆/2",
+    "B": "𝜆/4",
+    "C": "𝜆",
+    "D": "2𝜆",
+    "Correct": "𝜆/2"
+  },
+  {
+    "question": "When two identical waves move in the same direction, they give rise to:",
+    "A": "Standing waves",
+    "B": "Interference",
+    "C": "Beats",
+    "D": "None of these",
+    "Correct": "Interference"
+  },
+  {
+    "question": "When path difference is an integral multiple of wavelengths, the effect is called:",
+    "A": "Coherency",
+    "B": "Destructive interference",
+    "C": "Constructive interference",
+    "D": "Phase lag",
+    "Correct": "Constructive interference"
+  },
+  {
+    "question": "Beats are formed when two notes of frequencies 𝑓₁ and 𝑓₂ (𝑓₁ > 𝑓₂) are sounded together. The beat frequency will be:",
+    "A": "𝑓₁ + 𝑓₂",
+    "B": "𝑓₁ − 𝑓₂",
+    "C": "𝑓₁ + 𝑓₂ / 2",
+    "D": "𝑓₁ − 𝑓₂ / 2",
+    "Correct": "𝑓₁ − 𝑓₂"
+  },
+  {
+    "question": "The number of beats produced per second is equal to",
+    "A": "The sum of the frequencies of two tuning forks",
+    "B": "The difference of the frequencies of two tuning forks",
+    "C": "The ratio of the frequencies of two tuning forks",
+    "D": "The frequency of either of the two tuning forks",
+    "Correct": "The difference of the frequencies of two tuning forks"
+  },
+  {
+    "question": "When a wave is reflected on going from a rarer to a denser medium, then at the boundary the reflected wave will undergo a phase change of:",
+    "A": "0°",
+    "B": "90°",
+    "C": "−90°",
+    "D": "180°",
+    "Correct": "180°"
+  },
+  {
+    "question": "When a transverse wave is reflected on going from a denser to a rarer medium, then at the boundary the reflected wave undergoes a phase change of:",
+    "A": "0°",
+    "B": "90°",
+    "C": "−90°",
+    "D": "180°",
+    "Correct": "90°"
+  },
+  {
+    "question": "Periodic alteration of sound between maximum and minimum loudness are called",
+    "A": "Interference",
+    "B": "Resonance",
+    "C": "Doppler effect",
+    "D": "Beats",
+    "Correct": "Beats"
+  },
+  {
+    "question": "Beats can be heard when the difference of frequency is not more than:",
+    "A": 8,
+    "B": 4,
+    "C": 10,
+    "D": 6,
+    "Correct": 4
+  },
+  {
+    "question": "When a transverse wave is reflected on going from a denser medium to a rare medium, then:",
+    "A": "There is 180° phase shift",
+    "B": "There is no change in phase",
+    "C": "A crest is converted into trough",
+    "D": "A trough is converted into crest",
+    "Correct": "There is 180° phase shift"
+  },
+  {
+    "question": "Phase difference of 180° is equivalent to a path difference of:",
+    "A": "𝜆",
+    "B": "𝜆/2",
+    "C": "𝜆/4",
+    "D": "𝜆/8",
+    "Correct": "𝜆/2"
+  },
+  {
+    "question": "Two waves of equal frequency travelling in opposite direction produce:",
+    "A": "Interference",
+    "B": "Stationary waves",
+    "C": "Beats",
+    "D": "Doppler Effect",
+    "Correct": "Stationary waves"
+  },
+  {
+    "question": "Two wave trains of the same amplitude and frequency travelling in opposite directions along the same path in the same medium produce:",
+    "A": "Resonance",
+    "B": "Beats",
+    "C": "Standing waves",
+    "D": "Musical notes",
+    "Correct": "Standing waves"
+  },
+  {
+    "question": "Which property of wave motion distinguishes a travelling wave from a stationary wave:",
+    "A": "Amplitude",
+    "B": "Frequency of vibration",
+    "C": "Propagation of energy",
+    "D": "Direction of vibration",
+    "Correct": "Propagation of energy"
+  },
+  {
+    "question": "If a string vibrates in n loops, the wavelength of stationary waves will be:",
+    "A": "2𝑙 / 𝑛",
+    "B": "𝑛𝑙 / 2",
+    "C": "2𝑛 / 𝑙",
+    "D": "𝑙 / 2𝑛",
+    "Correct": "2𝑙 / 𝑛"
+  },
+  {
+    "question": "Stationary waves are generated on a string of length “l”, its fundamental frequency is given by:",
+    "A": "𝑓₁ = 𝑣 × 𝑙",
+    "B": "𝑓₁ = 𝑣 / 2𝑙",
+    "C": "𝑓₁ = 2𝑣 × 𝑙",
+    "D": "𝑓₁ = 2𝑙 / 𝑣",
+    "Correct": "𝑓₁ = 𝑣 / 2𝑙"
+  },
+  {
+    "question": "A set of frequencies, which is multiple of fundamental frequency is called:",
+    "A": "Beat frequency",
+    "B": "Harmonics",
+    "C": "Doppler frequencies",
+    "D": "Nodal frequencies",
+    "Correct": "Harmonics"
+  },
+  {
+    "question": "The points of maximum displacement on a stationary wave are called",
+    "A": "Anti-node",
+    "B": "Node",
+    "C": "Trough",
+    "D": "Crest",
+    "Correct": "Anti-node"
+  },
+  {
+    "question": "In a vibrating cord the points where the amplitude is zero, are called",
+    "A": "Antinodes",
+    "B": "Nodes",
+    "C": "Troughs",
+    "D": "Crests",
+    "Correct": "Nodes"
+  },
+  {
+    "question": "A distance between two consecutive nodes is:",
+    "A": "𝜆",
+    "B": "𝜆/2",
+    "C": "𝜆/4",
+    "D": "𝜆/8",
+    "Correct": "𝜆/2"
+  },
+  {
+    "question": "Radar system is an application of:",
+    "A": "Interference",
+    "B": "Beats",
+    "C": "Stationary waves",
+    "D": "Doppler effect",
+    "Correct": "Doppler effect"
+  },
+  {
+    "question": "Stars moving towards the earth show:",
+    "A": "Blue shift",
+    "B": "Red shift",
+    "C": "No shift",
+    "D": "Longer wavelength",
+    "Correct": "Blue shift"
+  },
+  {
+    "question": "The fixed ends of a vibrating string are",
+    "A": "Antinodes",
+    "B": "Nodes",
+    "C": "Overtones",
+    "D": "Neither nodes nor anti-nodes",
+    "Correct": "Nodes"
+  },
+  {
+    "question": "At the open end of an organ pipe:",
+    "A": "Nodes are formed",
+    "B": "Antinodes are formed",
+    "C": "Either nodes or antinodes may form",
+    "D": "Neither nodes nor antinodes may form",
+    "Correct": "Antinodes are formed"
+  },
+  {
+    "question": "Which of the following does not have any effect on the speed of sound in gases?",
+    "A": "Temperature",
+    "B": "Density",
+    "C": "Pressure",
+    "D": "None of these",
+    "Correct": "Pressure"
+  },
+  {
+    "question": "In a stationary wave, the particle velocity at the node is:",
+    "A": "Maximum",
+    "B": "Minimum",
+    "C": "Zero",
+    "D": "Constant",
+    "Correct": "Zero"
+  },
+  {
+    "question": "Doppler Effect applies to",
+    "A": "Sound wave only",
+    "B": "Light wave only",
+    "C": "Both sound and light wave",
+    "D": "Neither sound nor light wave",
+    "Correct": "Both sound and light wave"
+  },
+  {
+    "question": "When the source of sound moves away from a stationary listener, then ___________ occurs:",
+    "A": "An apparent increase in frequency",
+    "B": "An apparent decrease in frequency",
+    "C": "An apparent decrease in wavelength",
+    "D": "An apparent change in frequency",
+    "Correct": "An apparent decrease in frequency"
+  },
+  {
+    "question": "A simple pendulum has a bob of mass 'm' and its frequency is 'f'. If we replace the bob with a heavier one, say of '2m', then what will be its new frequency?",
+    "A": "1/4f",
+    "B": "1/2f",
+    "C": "f",
+    "D": "2f",
+    "Correct": "f"
+  },
+  {
+    "question": "The distance between a node and anti-node is",
+    "A": "𝜆",
+    "B": "𝜆/2",
+    "C": "𝜆/4",
+    "D": "𝜆/8",
+    "Correct": "𝜆/2"
+  },
+  {
+    "question": "The distance between two consecutive antinodes is:",
+    "A": "𝜆/2",
+    "B": "𝜆/4",
+    "C": "𝜆",
+    "D": "𝜆/8",
+    "Correct": "𝜆"
+  },
+  {
+    "question": "In open organ pipe",
+    "A": "Only even harmonics are present",
+    "B": "Only odd harmonics are present",
+    "C": "Both even and odd harmonics are present",
+    "D": "Selected harmonics are present",
+    "Correct": "Both even and odd harmonics are present"
+  },
+  {
+    "question": "Coulomb’s law is only applicable for",
+    "A": "Big charges",
+    "B": "Small charges",
+    "C": "Point charges",
+    "D": "Any charges",
+    "Correct": "Point charges"
+  },
+  {
+    "question": "The force exerted by two charged bodies on one another, obeys Coulomb’s law provided that",
+    "A": "The charges are not too small",
+    "B": "The charges are in vacuum",
+    "C": "The charges are not too large",
+    "D": "The linear dimension of charges is much smaller than distance between them",
+    "Correct": "The linear dimension of charges is much smaller than distance between them"
+  },
+  {
+    "question": "The constant K in Coulomb’s Law depends upon",
+    "A": "Nature of medium",
+    "B": "System of units",
+    "C": "Intensity of charge",
+    "D": "Both a & b",
+    "Correct": "Both a & b"
+  },
+  {
+    "question": "Presence of dielectric always",
+    "A": "Increases the electrostatic force",
+    "B": "Decreases the electrostatic force",
+    "C": "Does not affect the electrostatic force",
+    "D": "Doubles the electrostatic force",
+    "Correct": "Decreases the electrostatic force"
+  },
+  {
+    "question": "The S.I unit of permittivity is",
+    "A": "Nm^2/C^2",
+    "B": "C^2/Nm^2",
+    "C": "Nm/C^2",
+    "D": "Nm^2/C",
+    "Correct": "Nm^2/C^2"
+  },
+  {
+    "question": "The lines which provide information about the electric force exerted on charged particles are",
+    "A": "Magnetic field lines",
+    "B": "Electric field lines",
+    "C": "Tangent lines",
+    "D": "Curved lines",
+    "Correct": "Electric field lines"
+  },
+  {
+    "question": "The electric field created by positive charge is",
+    "A": "Radially outward",
+    "B": "Zero",
+    "C": "Circular",
+    "D": "Radially inward",
+    "Correct": "Radially outward"
+  },
+  {
+    "question": "The value of relative permittivity for all the dielectrics is always",
+    "A": "Less than unity",
+    "B": "Greater than unity",
+    "C": "Equal to unity",
+    "D": "Zero",
+    "Correct": "Greater than unity"
+  },
+  {
+    "question": "Photo-copier and inkjet printers are applications of",
+    "A": "Electronics",
+    "B": "Magnetism",
+    "C": "Electrostatics",
+    "D": "Thermodynamics",
+    "Correct": "Electrostatics"
+  },
+  {
+    "question": "Selenium is a conductor material when exposed to",
+    "A": "Light",
+    "B": "Dark",
+    "C": "Monochromatic light",
+    "D": "None of these",
+    "Correct": "Light"
+  },
+  {
+    "question": "Selenium is an",
+    "A": "Insulator",
+    "B": "Conductor",
+    "C": "Semiconductor",
+    "D": "Photoconductor",
+    "Correct": "Photoconductor"
+  },
+  {
+    "question": "In an inkjet printer, the charged ink drops are diverted by the deflection plates",
+    "A": "Towards the charging electrodes",
+    "B": "Towards the gutter",
+    "C": "Towards a blank paper on which the print is to be taken",
+    "D": "Inkjet printer ink cannot be charged",
+    "Correct": "Towards a blank paper on which the print is to be taken"
+  },
+  {
+    "question": "The electric field produced due to negative charge is always",
+    "A": "Radially outward",
+    "B": "Radially inward",
+    "C": "Circular",
+    "D": "Zero",
+    "Correct": "Radially inward"
+  },
+  {
+    "question": "The force experienced by a unit positive charge placed at a point in an electric field is called",
+    "A": "Coulomb’s force",
+    "B": "Faraday’s force",
+    "C": "Lorentz’s force",
+    "D": "Electric field intensity",
+    "Correct": "Electric field intensity"
+  },
+  {
+    "question": "Of the following quantities, the one that is vector in character is an",
+    "A": "Electric Charge",
+    "B": "Electric Field Intensity",
+    "C": "Electric Energy",
+    "D": "Electric Potential Difference",
+    "Correct": "Electric Field Intensity"
+  },
+  {
+    "question": "Electric field intensity is also known as",
+    "A": "Electric potential",
+    "B": "Electric flux",
+    "C": "Potential gradient",
+    "D": "",
+    "Correct": "Potential gradient"
+  },
+  {
+    "question": "Potential gradient is defined as",
+    "A": "ΔE/ΔV",
+    "B": "−ΔE/ΔV",
+    "C": "Δr/ΔV",
+    "D": "−ΔV/Δr",
+    "Correct": "−ΔV/Δr"
+  },
+  {
+    "question": "The SI unit of E is",
+    "A": "Newton/meter",
+    "B": "Newton/coulomb",
+    "C": "Newton/ampere",
+    "D": "Newton*meter",
+    "Correct": "Newton/coulomb"
+  },
+  {
+    "question": "The electric intensity is expressed in units of N/C or",
+    "A": "Volts",
+    "B": "Walt",
+    "C": "Joules",
+    "D": "V/m",
+    "Correct": "V/m"
+  },
+  {
+    "question": "The unit Vm^-1 is equivalent to",
+    "A": "NC^-1",
+    "B": "NC",
+    "C": "Nm^-1",
+    "D": "NmC^-1",
+    "Correct": "NC^-1"
+  },
+  {
+    "question": "Electric flux is defined as",
+    "A": "Φ = A.B",
+    "B": "Φ = E × A",
+    "C": "Φ = E.A",
+    "D": "Φ = EA",
+    "Correct": "Φ = E.A"
+  },
+  {
+    "question": "When vector area is held perpendicular to the field lines, then the magnitude of electric flux is",
+    "A": "Negative",
+    "B": "Maximum",
+    "C": "Minimum",
+    "D": "Zero",
+    "Correct": "Maximum"
+  },
+  {
+    "question": "When vector area is held parallel to electric field lines, the magnitude of electric flux is",
+    "A": "Maximum",
+    "B": "Minimum",
+    "C": "Either maximum or minimum",
+    "D": "Negative",
+    "Correct": "Maximum"
+  },
+  {
+    "question": "The SI unit of electric flux is",
+    "A": "NmC^-1",
+    "B": "Nm^2C^-1",
+    "C": "NmC^-2",
+    "D": "Nm^2C^-2",
+    "Correct": "Nm^2C^-1"
+  },
+  {
+    "question": "The magnitude of the electric field inside oppositely charged plates, having uniform surface charge density σ, is",
+    "A": "σ/ε0",
+    "B": "σ/2ε0",
+    "C": "q/ε0r",
+    "D": "σ/2ε0r",
+    "Correct": "σ/ε0"
+  },
+  {
+    "question": "The electric intensity near an infinite plate of positive charge will be",
+    "A": "q/ε0",
+    "B": "σ/2ε0",
+    "C": "q/A",
+    "D": "σ/ε0",
+    "Correct": "σ/ε0"
+  },
+  {
+    "question": "If a charged body is moved against the electric field, it will gain",
+    "A": "Potential energy",
+    "B": "Kinetic energy",
+    "C": "Mechanical energy",
+    "D": "None of these",
+    "Correct": "Potential energy"
+  },
+  {
+    "question": "One volt is",
+    "A": "One joule per coulomb",
+    "B": "One dyne per coulomb",
+    "C": "One Newton per coulomb",
+    "D": "One watt per second",
+    "Correct": "One joule per coulomb"
+  },
+  {
+    "question": "Absolute potential difference, due to a point charge of 1C at a distance of 1m is given by",
+    "A": "9 × 10^6 volts",
+    "B": "9 × 10^7 volts",
+    "C": "9 × 10^8 volts",
+    "D": "9 × 10^9 volts",
+    "Correct": "9 × 10^9 volts"
+  },
+  {
+    "question": "A charge of 0.01 C accelerated through a potential difference of 1000 V acquires K.E",
+    "A": "10 J",
+    "B": "100 J",
+    "C": "200 J",
+    "D": "400 eV",
+    "Correct": "10 J"
+  },
+  {
+    "question": "1 joule =__________",
+    "A": "6.25 × 10^18 eV",
+    "B": "6.25 × 10^-18 eV",
+    "C": "1.6 × 10^-19 eV",
+    "D": "9.1 × 10^-31 eV",
+    "Correct": "6.25 × 10^-18 eV"
+  },
+  {
+    "question": "One electron volt is equal to",
+    "A": "6.25 × 10^18 J",
+    "B": "6.25 × 10^-18 J",
+    "C": "1.6 × 10^-19 J",
+    "D": "9.1 × 10^-31 J",
+    "Correct": "1.6 × 10^-19 J"
+  },
+  {
+    "question": "How many electrons will have a charge of one coulomb?",
+    "A": "6.2 × 10^18",
+    "B": "6.2 × 10^19",
+    "C": "5.2 × 10^18",
+    "D": "5.2 × 10^19",
+    "Correct": "6.2 × 10^18"
+  },
+  {
+    "question": "Gravitational force between two objects does not depend on",
+    "A": "Force",
+    "B": "Masses",
+    "C": "Distance",
+    "D": "Medium",
+    "Correct": "Medium"
+  },
+  {
+    "question": "The charge on the electron was calculated by",
+    "A": "Faraday",
+    "B": "J.J. Thomson",
+    "C": "Millikan",
+    "D": "Einstein",
+    "Correct": "Millikan"
+  },
+  {
+    "question": "The equation for Stokes' law is",
+    "A": "6πηr",
+    "B": "6πηrv",
+    "C": "6rv",
+    "D": "8πηrv",
+    "Correct": "6πηrv"
+  },
+  {
+    "question": "The charge determined by the Millikan’s experiment is",
+    "A": "m/qvd",
+    "B": "g/qvd",
+    "C": "v/mgd",
+    "D": "g = qvd",
+    "Correct": "v/mgd"
+  },
+  {
+    "question": "Capacitors may be considered as a device for",
+    "A": "Storing energy",
+    "B": "Increasing resistance",
+    "C": "Decreasing resistance",
+    "D": "",
+    "Correct": ""
+  },
+  {
+    "question": "The medium used between the plates of a capacitor is called",
+    "A": "Polarization",
+    "B": "Dielectric",
+    "C": "Insulators",
+    "D": "Medium",
+    "Correct": "Dielectric"
+  },
+  {
+    "question": "Capacity of a capacitor depends upon",
+    "A": "Size of plate",
+    "B": "Distance between plates",
+    "C": "Nature of dielectric between plates",
+    "D": "All of the above",
+    "Correct": "All of the above"
+  },
+  {
+    "question": "Farad is defined as",
+    "A": "C/V",
+    "B": "A/V",
+    "C": "C/J",
+    "D": "J/C",
+    "Correct": "C/V"
+  },
+  {
+    "question": "The capacitance of a parallel plate capacitor is given by",
+    "A": "C = A/ε0 d",
+    "B": "C = Aε0/d",
+    "C": "C = ε0 d/A",
+    "D": "C = d/ε0 A",
+    "Correct": "C = Aε0/d"
+  },
+  {
+    "question": "The expression for energy stored in a capacitor is given by",
+    "A": "E = CV^2",
+    "B": "E = 1/2 CV^2",
+    "C": "E = 1/2 C^2V",
+    "D": "E = 1/2 CV2",
+    "Correct": "E = 1/2 CV^2"
+  },
+  {
+    "question": "Unit of energy density of electric field is",
+    "A": "J C^-1",
+    "B": "J V^-1",
+    "C": "J m^-3",
+    "D": "J F^-3",
+    "Correct": "J m^-3"
+  },
+  {
+    "question": "The term 'RC' has the same unit as that of",
+    "A": "Potential",
+    "B": "Capacitance",
+    "C": "Energy",
+    "D": "Time",
+    "Correct": "Time"
+  },
+  {
+    "question": "The ratio of Cvac and Cmed is equal to",
+    "A": "εr",
+    "B": "1/εr",
+    "C": "ε0",
+    "D": "1/ε0",
+    "Correct": "1/εr"
+  },
+  {
+    "question": "During charging of a capacitor, the ratio of instantaneous charge and maximum charge on plates of capacitors at t = RC is",
+    "A": "36.80%",
+    "B": "63.20%",
+    "C": "20%",
+    "D": "30%",
+    "Correct": "63.20%"
+  },
+  {
+    "question": "One coulomb per second is equal to",
+    "A": "Joule",
+    "B": "Volt",
+    "C": "Ampere",
+    "D": "Watt",
+    "Correct": "Ampere"
+  },
+  {
+    "question": "In the metallic conductor, the current is due to the flow of ______ charge",
+    "A": "Positive",
+    "B": "Negative",
+    "C": "Proton",
+    "D": "",
+    "Correct": "Negative"
+  },
+  {
+    "question": "Conventional current flows from",
+    "A": "Point of higher potential to point of lower potential",
+    "B": "Point of lower potential to point of higher potential",
+    "C": "Point of lower potential to point of lower potential",
+    "D": "",
+    "Correct": "Point of higher potential to point of lower potential"
+  },
+  {
+    "question": "In the thermocouple, the heat energy is converted into",
+    "A": "Mechanical energy",
+    "B": "Electric energy",
+    "C": "Magnetic energy",
+    "D": "",
+    "Correct": "Electric energy"
+  },
+  {
+    "question": "The heating effect of current is utilized in",
+    "A": "Iron",
+    "B": "Tube light",
+    "C": "Fan",
+    "D": "Motor",
+    "Correct": "Iron"
+  },
+  {
+    "question": "Through an electrolyte, electric current is passed due to drift of",
+    "A": "Free electrons",
+    "B": "Positive and negative ions",
+    "C": "Free electrons and holes",
+    "D": "Protons",
+    "Correct": "Positive and negative ions"
+  },
+  {
+    "question": "Joule's law can be expressed as",
+    "A": "H = I^2Rt",
+    "B": "H = IR^2t",
+    "C": "H = I^2Rt",
+    "D": "H = IRt",
+    "Correct": "H = I^2Rt"
+  },
+  {
+    "question": "The heat produced by the passage of current through a resistor is",
+    "A": "H = I^2Rt",
+    "B": "H = IR^2t",
+    "C": "H = I^2Rt",
+    "D": "H = IRt",
+    "Correct": "H = I^2Rt"
+  },
+  {
+    "question": "Current can be measured by using",
+    "A": "Heating effect",
+    "B": "Magnetic effect",
+    "C": "Chemical effect",
+    "D": "",
+    "Correct": "Magnetic effect"
+  },
+  {
+    "question": "In liquids and gases, the current is due to the motion of",
+    "A": "Negative charges",
+    "B": "Positive charges",
+    "C": "Neutral particles",
+    "D": "Both negative and positive charges",
+    "Correct": "Both negative and positive charges"
+  },
+  {
+    "question": "When electricity passes through the liquid, then the process is called",
+    "A": "Electrolyte",
+    "B": "Electrolysis",
+    "C": "Electro-conductor",
+    "D": "",
+    "Correct": "Electrolysis"
+  },
+  {
+    "question": "Magnetic effect of current is utilized in",
+    "A": "Iron",
+    "B": "Thermocouple",
+    "C": "Measurement of current",
+    "D": "",
+    "Correct": "Measurement of current"
+  },
+  {
+    "question": "The VI-graph of Ohm’s law is",
+    "A": "Hyperbola",
+    "B": "Ellipse",
+    "C": "Parabola",
+    "D": "Straight",
+    "Correct": "Straight"
+  },
+  {
+    "question": "Mathematical form of Ohm’s law is",
+    "A": "I = VR",
+    "B": "I = V/R",
+    "C": "I = R/V",
+    "D": "R = IV",
+    "Correct": "I = V/R"
+  },
+  {
+    "question": "Ohm’s law is valid for only current flowing in",
+    "A": "Conductors",
+    "B": "Transistors",
+    "C": "Diodes",
+    "D": "Electric Areas",
+    "Correct": "Conductors"
+  },
+  {
+    "question": "The proportionality constant between current and potential difference is",
+    "A": "ρ",
+    "B": "R",
+    "C": "C",
+    "D": "V",
+    "Correct": "R"
+  },
+  {
+    "question": "1 ohm is defined as",
+    "A": "V/C",
+    "B": "V/A",
+    "C": "C/V",
+    "D": "V/A",
+    "Correct": "V/A"
+  },
+  {
+    "question": "In a series circuit, the net resistance is",
+    "A": "Algebraic sum of all resistance",
+    "B": "Sum of reciprocals of all resistances in circuit",
+    "C": "Remain constant",
+    "D": "",
+    "Correct": "Algebraic sum of all resistance"
+  },
+  {
+    "question": "The reciprocal of resistivity is called",
+    "A": "Resistance",
+    "B": "Conduction",
+    "C": "Conductivity",
+    "D": "",
+    "Correct": "Conductivity"
+  },
+  {
+    "question": "The unit of conductivity is",
+    "A": "Ω.m",
+    "B": "(Ω.m)^-1",
+    "C": "Ω.m^-1",
+    "D": "",
+    "Correct": "(Ω.m)^-1"
+  },
+  {
+    "question": "A wire of resistance R is cut into two equal parts, its resistance becomes R/2. What happens to resistivity?",
+    "A": "Double",
+    "B": "Same",
+    "C": "Haf",
+    "D": "One forth",
+    "Correct": "Same"
+  },
+  {
+    "question": "When temperature increases, the resistance of conductor",
+    "A": "Increases",
+    "B": "Decreases",
+    "C": "Remains constant",
+    "D": "Vanishing",
+    "Correct": "Increases"
+  },
+  {
+    "question": "Heat sensitive resistors are called",
+    "A": "Resistors",
+    "B": "Capacitors",
+    "C": "Thermistors",
+    "D": "Inductors",
+    "Correct": "Thermistors"
+  },
+  {
+    "question": "Thermistor can be used for the accurate measurement of",
+    "A": "Voltage",
+    "B": "Resistance",
+    "C": "Temperature",
+    "D": "Heat",
+    "Correct": "Temperature"
+  },
+  {
+    "question": "The maximum power delivered by a battery is",
+    "A": "Pmax = E^2/4r",
+    "B": "Pmax = 4rE^2",
+    "C": "Pmax = VI*T",
+    "D": "Unlimited",
+    "Correct": "Pmax = E^2/4r"
+  },
+  {
+    "question": "If the length and diameter of conductor is double, the resistance is",
+    "A": "Remain same",
+    "B": "Double",
+    "C": "Half",
+    "D": "Four times",
+    "Correct": "Half"
+  },
+  {
+    "question": "A wire of uniform cross-section A and length L is cut into two equal parts. The resistance of each part becomes",
+    "A": "Double",
+    "B": "Half",
+    "C": "4 times",
+    "D": "¼ times",
+    "Correct": "Half"
+  },
+  {
+    "question": "The fractional change in resistivity per Kelvin",
+    "A": "Co-efficient in resistance",
+    "B": "Co-efficient of resistivity",
+    "C": "Resistance",
+    "D": "",
+    "Correct": "Co-efficient of resistivity"
+  },
+  {
+    "question": "In the carbon resistor, their value can be found by their",
+    "A": "Wires",
+    "B": "Terminals",
+    "C": "Color Bands",
+    "D": "Spots",
+    "Correct": "Color Bands"
+  },
+  {
+    "question": "The third band is written in the form of power of",
+    "A": 2,
+    "B": 6,
+    "C": 8,
+    "D": 10,
+    "Correct": 10
+  },
+  {
+    "question": "The numerical value of black color is",
+    "A": 3,
+    "B": 2,
+    "C": 1,
+    "D": 0,
+    "Correct": 0
+  },
+  {
+    "question": "The color code for the color Grey is",
+    "A": 7,
+    "B": 8,
+    "C": 9,
+    "D": 5,
+    "Correct": 7
+  },
+  {
+    "question": "The colors of strips on a certain carbon resistor from extreme left are yellow, black and red respectively. Its resistance is",
+    "A": "4 kΩ",
+    "B": "400 Ω",
+    "C": "40 Ω",
+    "D": "40 kΩ",
+    "Correct": "400 Ω"
+  },
+  {
+    "question": "If the tolerance color is gold then its value is",
+    "A": "± 2%",
+    "B": "± 4%",
+    "C": "± 5%",
+    "D": "± 6%",
+    "Correct": "± 5%"
+  },
+  {
+    "question": "Tolerance for silver band is",
+    "A": "±5%",
+    "B": "±10%",
+    "C": "±15%",
+    "D": "±20%",
+    "Correct": "±10%"
+  },
+  {
+    "question": "A rheostat can be used as a",
+    "A": "Variable resistor",
+    "B": "Potential divider",
+    "C": "Both a and b",
+    "D": "None of these",
+    "Correct": "Both a and b"
+  },
+  {
+    "question": "The wire used in Rheostat is made from",
+    "A": "Constantan",
+    "B": "Nichrome",
+    "C": "Manganin",
+    "D": "Tungsten",
+    "Correct": "Nichrome"
+  },
+  {
+    "question": "The S.I unit of emf is same as",
+    "A": "Work",
+    "B": "Energy",
+    "C": "Power",
+    "D": "Potential Difference",
+    "Correct": "Potential Difference"
+  },
+  {
+    "question": "The terminal potential difference of a battery of internal resistance “r” and emf “ε” is",
+    "A": "V = ε + Ir",
+    "B": "V = ε − Ir",
+    "C": "V = ε−r/I",
+    "D": "V = Iε−r/b",
+    "Correct": ""
+  },
+  {
+    "question": "Which electric bulb has the least resistance?",
+    "A": "60 watts",
+    "B": "100 watts",
+    "C": "200 watts",
+    "D": "500 watts",
+    "Correct": "100 watts"
+  },
+  {
+    "question": "An electric heater 220V, 440W has a resistance",
+    "A": "2 Ω",
+    "B": "110 Ω",
+    "C": "0.5 Ω",
+    "D": "20 Ω",
+    "Correct": "0.5 Ω"
+  },
+  {
+    "question": "Kirchhoff’s first rule is",
+    "A": "V = 0",
+    "B": "R = 0",
+    "C": "I = 0",
+    "D": "T = 0",
+    "Correct": "I = 0"
+  },
+  {
+    "question": "Kirchhoff’s first rule is based on conservation of",
+    "A": "Energy",
+    "B": "Voltage",
+    "C": "Charge",
+    "D": "Mass",
+    "Correct": "Charge"
+  },
+  {
+    "question": "The algebraic sum of all the current at junction is zero, is Kirchhoff’s",
+    "A": "1st law",
+    "B": "2nd law",
+    "C": "3rd law",
+    "D": "4th law",
+    "Correct": "1st law"
+  },
+  {
+    "question": "The algebraic sum of voltages changes around a closed circuit or loop is zero, is Kirchhoff’s",
+    "A": "1st law",
+    "B": "2nd law",
+    "C": "3rd law",
+    "D": "4th law",
+    "Correct": "2nd law"
+  },
+  {
+    "question": "An ideal voltmeter would have an infinite",
+    "A": "Current",
+    "B": "Voltage",
+    "C": "Resistance",
+    "D": "None of these",
+    "Correct": "Resistance"
+  },
+  {
+    "question": "The emf of two cells can be compared by",
+    "A": "AVO meter",
+    "B": "Voltmeter",
+    "C": "Potentiometer",
+    "D": "Galvanometer",
+    "Correct": "Potentiometer"
+  },
+  {
+    "question": "An accurate measurement of emf of a cell is made by",
+    "A": "A voltmeter",
+    "B": "An ammeter",
+    "C": "A potentiometer",
+    "D": "All of them",
+    "Correct": "A potentiometer"
+  },
+  {
+    "question": "The ratio of emf of two cells ε1/ε2 , is equal to",
+    "A": "l1/l2",
+    "B": "1:02",
+    "C": "l2/l1",
+    "D": "2:01",
+    "Correct": "l1/l2"
+  },
+  {
+    "question": "One coulomb per second is equal to",
+    "A": "Joule",
+    "B": "Volt",
+    "C": "Ampere",
+    "D": "Watt",
+    "Correct": "Ampere"
+  },
+  {
+    "question": "In the metallic conductor, the current is due to the flow of ______ charge",
+    "A": "Positive",
+    "B": "Negative",
+    "C": "Proton",
+    "D": "",
+    "Correct": "Negative"
+  },
+  {
+    "question": "Conventional current flows from",
+    "A": "Point of higher potential to point of lower potential",
+    "B": "Point of lower potential to point of higher potential",
+    "C": "Point of lower potential to point of lower potential",
+    "D": "",
+    "Correct": "Point of higher potential to point of lower potential"
+  },
+  {
+    "question": "In the thermocouple, the heat energy is converted into",
+    "A": "Mechanical energy",
+    "B": "Electric energy",
+    "C": "Magnetic energy",
+    "D": "",
+    "Correct": "Electric energy"
+  },
+  {
+    "question": "The heating effect of current is utilized in",
+    "A": "Iron",
+    "B": "Tube light",
+    "C": "Fan",
+    "D": "Motor",
+    "Correct": "Iron"
+  },
+  {
+    "question": "Through an electrolyte, electric current is passed due to drift of",
+    "A": "Free electrons",
+    "B": "Positive and negative ions",
+    "C": "Free electrons and holes",
+    "D": "Protons",
+    "Correct": "Positive and negative ions"
+  },
+  {
+    "question": "Joule's law can be expressed as",
+    "A": "H = I^2Rt",
+    "B": "H = IR^2t",
+    "C": "H = I^2Rt",
+    "D": "H = IRt",
+    "Correct": "H = I^2Rt"
+  },
+  {
+    "question": "The heat produced by the passage of current through a resistor is",
+    "A": "H = I^2Rt",
+    "B": "H = IR^2t",
+    "C": "H = I^2Rt",
+    "D": "H = IRt",
+    "Correct": "H = I^2Rt"
+  },
+  {
+    "question": "Current can be measured by using",
+    "A": "Heating effect",
+    "B": "Magnetic effect",
+    "C": "Chemical effect",
+    "D": "",
+    "Correct": "Magnetic effect"
+  },
+  {
+    "question": "In liquids and gases, the current is due to the motion of",
+    "A": "Negative charges",
+    "B": "Positive charges",
+    "C": "Neutral particles",
+    "D": "Both negative and positive charges",
+    "Correct": "Both negative and positive charges"
+  },
+  {
+    "question": "When electricity passes through the liquid, then the process is called",
+    "A": "Electrolyte",
+    "B": "Electrolysis",
+    "C": "Electro-conductor",
+    "D": "",
+    "Correct": "Electrolysis"
+  },
+  {
+    "question": "Magnetic effect of current is utilized in",
+    "A": "Iron",
+    "B": "Thermocouple",
+    "C": "Measurement of current",
+    "D": "",
+    "Correct": "Measurement of current"
+  },
+  {
+    "question": "The VI-graph of Ohm’s law is",
+    "A": "Hyperbola",
+    "B": "Ellipse",
+    "C": "Parabola",
+    "D": "Straight",
+    "Correct": "Straight"
+  },
+  {
+    "question": "Mathematical form of Ohm’s law is",
+    "A": "I = VR",
+    "B": "I = V/R",
+    "C": "I = R/V",
+    "D": "R = IV",
+    "Correct": "I = V/R"
+  },
+  {
+    "question": "Ohm’s law is valid for only current flowing in",
+    "A": "Conductors",
+    "B": "Transistors",
+    "C": "Diodes",
+    "D": "Electric Areas",
+    "Correct": "Conductors"
+  },
+  {
+    "question": "The proportionality constant between current and potential difference is",
+    "A": "ρ",
+    "B": "R",
+    "C": "C",
+    "D": "V",
+    "Correct": "R"
+  },
+  {
+    "question": "1 ohm is defined as",
+    "A": "V/C",
+    "B": "V/A",
+    "C": "C/V",
+    "D": "V/A",
+    "Correct": "V/A"
+  },
+  {
+    "question": "In a series circuit, the net resistance is",
+    "A": "Algebraic sum of all resistance",
+    "B": "Sum of reciprocals of all resistances in circuit",
+    "C": "Remain constant",
+    "D": "",
+    "Correct": "Algebraic sum of all resistance"
+  },
+  {
+    "question": "The reciprocal of resistivity is called",
+    "A": "Resistance",
+    "B": "Conduction",
+    "C": "Conductivity",
+    "D": "",
+    "Correct": "Conductivity"
+  },
+  {
+    "question": "The unit of conductivity is",
+    "A": "Ω.m",
+    "B": "(Ω.m)^-1",
+    "C": "Ω.m^-1",
+    "D": "",
+    "Correct": "(Ω.m)^-1"
+  },
+  {
+    "question": "A wire of resistance R is cut into two equal parts, its resistance becomes R/2. What happens to resistivity?",
+    "A": "Double",
+    "B": "Same",
+    "C": "Haf",
+    "D": "One forth",
+    "Correct": "Same"
+  },
+  {
+    "question": "When temperature increases, the resistance of conductor",
+    "A": "Increases",
+    "B": "Decreases",
+    "C": "Remains constant",
+    "D": "Vanishing",
+    "Correct": "Increases"
+  },
+  {
+    "question": "Heat sensitive resistors are called",
+    "A": "Resistors",
+    "B": "Capacitors",
+    "C": "Thermistors",
+    "D": "Inductors",
+    "Correct": "Thermistors"
+  },
+  {
+    "question": "Thermistor can be used for the accurate measurement of",
+    "A": "Voltage",
+    "B": "Resistance",
+    "C": "Temperature",
+    "D": "Heat",
+    "Correct": "Temperature"
+  },
+  {
+    "question": "The maximum power delivered by a battery is",
+    "A": "Pmax = E^2/4r",
+    "B": "Pmax = 4rE^2",
+    "C": "Pmax = VI*T",
+    "D": "Unlimited",
+    "Correct": "Pmax = E^2/4r"
+  },
+  {
+    "question": "If the length and diameter of conductor is double, the resistance is",
+    "A": "Remain same",
+    "B": "Double",
+    "C": "Half",
+    "D": "Four times",
+    "Correct": "Half"
+  },
+  {
+    "question": "A wire of uniform cross-section A and length L is cut into two equal parts. The resistance of each part becomes",
+    "A": "Double",
+    "B": "Half",
+    "C": "4 times",
+    "D": "¼ times",
+    "Correct": "Half"
+  },
+  {
+    "question": "The fractional change in resistivity per Kelvin",
+    "A": "Co-efficient in resistance",
+    "B": "Co-efficient of resistivity",
+    "C": "Resistance",
+    "D": "",
+    "Correct": "Co-efficient of resistivity"
+  },
+  {
+    "question": "In the carbon resistor, their value can be found by their",
+    "A": "Wires",
+    "B": "Terminals",
+    "C": "Color Bands",
+    "D": "Spots",
+    "Correct": "Color Bands"
+  },
+  {
+    "question": "The third band is written in the form of power of",
+    "A": 2,
+    "B": 6,
+    "C": 8,
+    "D": 10,
+    "Correct": 10
+  },
+  {
+    "question": "The numerical value of black color is",
+    "A": 3,
+    "B": 2,
+    "C": 1,
+    "D": 0,
+    "Correct": 0
+  },
+  {
+    "question": "The color code for the color Grey is",
+    "A": 7,
+    "B": 8,
+    "C": 9,
+    "D": 5,
+    "Correct": 7
+  },
+  {
+    "question": "The colors of strips on a certain carbon resistor from extreme left are yellow, black and red respectively. Its resistance is",
+    "A": "4 kΩ",
+    "B": "400 Ω",
+    "C": "40 Ω",
+    "D": "40 kΩ",
+    "Correct": "400 Ω"
+  },
+  {
+    "question": "If the tolerance color is gold then its value is",
+    "A": "± 2%",
+    "B": "± 4%",
+    "C": "± 5%",
+    "D": "± 6%",
+    "Correct": "± 5%"
+  },
+  {
+    "question": "Tolerance for silver band is",
+    "A": "±5%",
+    "B": "±10%",
+    "C": "±15%",
+    "D": "±20%",
+    "Correct": "±10%"
+  },
+  {
+    "question": "A rheostat can be used as a",
+    "A": "Variable resistor",
+    "B": "Potential divider",
+    "C": "Both a and b",
+    "D": "None of these",
+    "Correct": "Both a and b"
+  },
+  {
+    "question": "The wire used in Rheostat is made from",
+    "A": "Constantan",
+    "B": "Nichrome",
+    "C": "Manganin",
+    "D": "Tungsten",
+    "Correct": "Nichrome"
+  },
+  {
+    "question": "The S.I unit of emf is same as",
+    "A": "Work",
+    "B": "Energy",
+    "C": "Power",
+    "D": "Potential Difference",
+    "Correct": "Potential Difference"
+  },
+  {
+    "question": "The terminal potential difference of a battery of internal resistance “r” and emf “ε” is",
+    "A": "V = ε + Ir",
+    "B": "V = ε − Ir",
+    "C": "V = ε−r/I",
+    "D": "V = Iε−r",
+    "Correct": "V = ε − Ir"
+  },
+  {
+    "question": "Which electric bulb has the least resistance?",
+    "A": "60 watts",
+    "B": "100 watts",
+    "C": "200 watts",
+    "D": "500 watts",
+    "Correct": "100 watts"
+  },
+  {
+    "question": "An electric heater 220V, 440W has a resistance",
+    "A": "2 Ω",
+    "B": "110 Ω",
+    "C": "0.5 Ω",
+    "D": "20 Ω",
+    "Correct": "0.5 Ω"
+  },
+  {
+    "question": "Kirchhoff’s first rule is",
+    "A": "V = 0",
+    "B": "R = 0",
+    "C": "I = 0",
+    "D": "T = 0",
+    "Correct": "I = 0"
+  },
+  {
+    "question": "Kirchhoff’s first rule is based on conservation of",
+    "A": "Energy",
+    "B": "Voltage",
+    "C": "Charge",
+    "D": "Mass",
+    "Correct": "Charge"
+  },
+  {
+    "question": "The algebraic sum of all the current at junction is zero, is Kirchhoff’s",
+    "A": "1st law",
+    "B": "2nd law",
+    "C": "3rd law",
+    "D": "4th law",
+    "Correct": "1st law"
+  },
+  {
+    "question": "The algebraic sum of voltages changes around a closed circuit or loop is zero, is Kirchhoff’s",
+    "A": "1st law",
+    "B": "2nd law",
+    "C": "3rd law",
+    "D": "4th law",
+    "Correct": "2nd law"
+  },
+  {
+    "question": "An ideal voltmeter would have an infinite",
+    "A": "Current",
+    "B": "Voltage",
+    "C": "Resistance",
+    "D": "None of these",
+    "Correct": "Resistance"
+  },
+  {
+    "question": "The emf of two cells can be compared by",
+    "A": "AVO meter",
+    "B": "Voltmeter",
+    "C": "Potentiometer",
+    "D": "Galvanometer",
+    "Correct": "Potentiometer"
+  },
+  {
+    "question": "An accurate measurement of emf of a cell is made by",
+    "A": "A voltmeter",
+    "B": "An ammeter",
+    "C": "A potentiometer",
+    "D": "All of them",
+    "Correct": "A potentiometer"
+  },
+  {
+    "question": "The ratio of emf of two cells ε1/ε2 , is equal to",
+    "A": "l1/l2",
+    "B": "1:02",
+    "C": "l2/l1",
+    "D": "2:01",
+    "Correct": "l1/l2"
+  },
+  {
+    "question": "A body covering equal displacement in equal interval of time possesses:",
+    "A": "Variable velocity",
+    "B": "Uniform acceleration",
+    "C": "Uniform velocity",
+    "D": "None of above",
+    "Correct": "Uniform velocity"
+  },
+  {
+    "question": "Instantaneous and average velocities become equal when body:",
+    "A": "Has zero acceleration",
+    "B": "Has uniform velocity",
+    "C": "Has variable velocity",
+    "D": "Moves in a circle",
+    "Correct": "Has uniform velocity"
+  },
+  {
+    "question": "When velocity time graph is a straight line parallel to time axis then:",
+    "A": "Acceleration is constant",
+    "B": "Acceleration is variable",
+    "C": "Acceleration is zero",
+    "D": "Velocity is zero",
+    "Correct": "Acceleration is zero"
+  },
+  {
+    "question": "Slope of velocity time graph is:",
+    "A": "Acceleration",
+    "B": "Distance",
+    "C": "Force",
+    "D": "Momentum",
+    "Correct": "Acceleration"
+  },
+  {
+    "question": "The area between the velocity-time graph and the time axis is numerically equal to:",
+    "A": "Velocity",
+    "B": "Distance",
+    "C": "Time",
+    "D": "Acceleration",
+    "Correct": "Distance"
+  },
+  {
+    "question": "If the slope of velocity-time graph gradually decreases, then the body is said to be moving with:",
+    "A": "Positive acceleration",
+    "B": "Negative acceleration",
+    "C": "Uniform velocity",
+    "D": "Variable velocity",
+    "Correct": "Negative acceleration"
+  },
+  {
+    "question": "If the slope of velocity-time graph gradually increases, then the body is said to be moving with:",
+    "A": "Positive acceleration",
+    "B": "Negative acceleration",
+    "C": "Uniform velocity",
+    "D": "Variable velocity",
+    "Correct": "Positive acceleration"
+  },
+  {
+    "question": "What is the shape of velocity time graph for constant acceleration?",
+    "A": "Straight line",
+    "B": "Parabola",
+    "C": "Inclined curve",
+    "D": "Declined curve",
+    "Correct": "Straight line"
+  },
+  {
+    "question": "When the object is moving towards earth, the value of 'g' is taken as:",
+    "A": "Positive",
+    "B": "Negative",
+    "C": "Zero",
+    "D": "",
+    "Correct": "Positive"
+  },
+  {
+    "question": "Change in momentum is called:",
+    "A": "Force",
+    "B": "Impulse",
+    "C": "Acceleration",
+    "D": "Torque",
+    "Correct": "Impulse"
+  },
+  {
+    "question": "The time rate of change of momentum is called:",
+    "A": "Force",
+    "B": "Impulse",
+    "C": "Acceleration",
+    "D": "Torque",
+    "Correct": "Force"
+  },
+  {
+    "question": "The property of a body due to which it opposes its state of rest or uniform motion is called:",
+    "A": "Momentum",
+    "B": "Inertia",
+    "C": "Torque",
+    "D": "Weight",
+    "Correct": "Inertia"
+  },
+  {
+    "question": "Which law of motion is also called law of inertia?",
+    "A": "1st law",
+    "B": "2nd law",
+    "C": "3rd law",
+    "D": "4th law",
+    "Correct": "1st law"
+  },
+  {
+    "question": "Inertia of an object is quantitative measure of its:",
+    "A": "Volume",
+    "B": "Density",
+    "C": "Mass",
+    "D": "Temperature",
+    "Correct": "Mass"
+  },
+  {
+    "question": "Momentum depends upon:",
+    "A": "Force acting on the body",
+    "B": "Mass of the body",
+    "C": "Velocity of the body",
+    "D": "Both mass and velocity of the body",
+    "Correct": "Both mass and velocity of the body"
+  },
+  {
+    "question": "An alternate unit to kg m/s is:",
+    "A": "Js",
+    "B": "Ns",
+    "C": "Nm",
+    "D": "N",
+    "Correct": "Ns"
+  },
+  {
+    "question": "SI unit of impulse is:",
+    "A": "kg m s⁻²",
+    "B": "N s",
+    "C": "N",
+    "D": "None of these",
+    "Correct": "N s"
+  },
+  {
+    "question": "The dimension of acceleration is:",
+    "A": "L T⁻¹",
+    "B": "L² T⁻²",
+    "C": "L² T²",
+    "D": "L T⁻²",
+    "Correct": "L T⁻²"
+  },
+  {
+    "question": "The dimension of force is:",
+    "A": "L T⁻²",
+    "B": "ML² T⁻²",
+    "C": "L² T²",
+    "D": "ML⁻² T⁻²",
+    "Correct": "L T⁻²"
+  },
+  {
+    "question": "Which of the following pair has the same direction always?",
+    "A": "Force, displacement",
+    "B": "Force, velocity",
+    "C": "Force, acceleration",
+    "D": "Force, momentum",
+    "Correct": "Force, acceleration"
+  },
+  {
+    "question": "A snooker ball moving with velocity v collides head on with another snooker ball of the same mass at rest. If the collision is elastic, the velocity of the second snooker ball is:",
+    "A": "Zero",
+    "B": "Infinity",
+    "C": "v",
+    "D": "2v",
+    "Correct": "v"
+  },
+  {
+    "question": "Taking off a rocket can be explained by:",
+    "A": "1st law of motion",
+    "B": "2nd law of motion",
+    "C": "Law of conservation of momentum",
+    "D": "Law of conservation of energy",
+    "Correct": "Law of conservation of momentum"
+  },
+  {
+    "question": "The trajectory (or path) of a projectile is:",
+    "A": "Straight line",
+    "B": "Parabola",
+    "C": "Hyperbola",
+    "D": "Circle",
+    "Correct": "Parabola"
+  },
+  {
+    "question": "A football player will throw a football at maximum distance if the angle of projection is:",
+    "A": "30°",
+    "B": "45°",
+    "C": "60°",
+    "D": "90°",
+    "Correct": "45°"
+  },
+  {
+    "question": "Range of a projectile on a horizontal plane is same for the following pair of angles:",
+    "A": "30° and 60°",
+    "B": "20° and 80°",
+    "C": "0° and 45°",
+    "D": "10° and 90°",
+    "Correct": "30° and 60°"
+  },
+  {
+    "question": "The total time of flight of a projectile is given by:",
+    "A": "v₀ sinθ/g",
+    "B": "2v₀ sinθ/g",
+    "C": "v₀ sinθ/2g",
+    "D": "2v₀ sin²θ/g",
+    "Correct": "2v₀ sinθ/g"
+  },
+  {
+    "question": "Horizontal range of the projectile is given by R = 2v₀²sin2θ/g. For what value of θ, range is maximum:",
+    "A": "0°",
+    "B": "30°",
+    "C": "45°",
+    "D": "90°",
+    "Correct": "45°"
+  },
+  {
+    "question": "The velocity of projectile at its maximum height is:",
+    "A": "v₀ sinθ",
+    "B": "v₀ cosθ",
+    "C": "Maximum",
+    "D": "Zero",
+    "Correct": "v₀ cosθ"
+  },
+  {
+    "question": "Motion of projectile is:",
+    "A": "One-dimensional",
+    "B": "Two-dimensional",
+    "C": "Three-dimensional",
+    "D": "Four-dimensional",
+    "Correct": "Two-dimensional"
+  },
+  {
+    "question": "A projectile is thrown upward with initial velocity v₀ making an angle θ with the horizontal. The maximum horizontal range is given by:",
+    "A": "v₀²/g",
+    "B": "v₀²/2g",
+    "C": "v₀²sin2θ/g",
+    "D": "v₀²sin²θ/2g",
+    "Correct": "v₀²sin2θ/g"
+  },
+  {
+    "question": "During projectile motion, the horizontal component of velocity:",
+    "A": "Changes with time",
+    "B": "Becomes zero",
+    "C": "Remains constant",
+    "D": "Increases with time",
+    "Correct": "Remains constant"
+  },
+  {
+    "question": "The range of projectile is same for angles of projection:",
+    "A": "30° and 45°",
+    "B": "45° and 60°",
+    "C": "50° and 45°",
+    "D": "30° and 60°",
+    "Correct": "30° and 60°"
+  },
+  {
+    "question": "1 revolution:",
+    "A": "57°",
+    "B": "90°",
+    "C": "180°",
+    "D": "360°",
+    "Correct": "360°"
+  },
+  {
+    "question": "One radian is equal to.",
+    "A": "67.3°",
+    "B": "57.3°",
+    "C": "87.3°",
+    "D": "60°",
+    "Correct": "57.3°"
+  },
+  {
+    "question": "The SI unit of angular momentum is Js. It can also be expressed as:",
+    "A": "𝑘𝑔 𝑚 𝑠−1",
+    "B": "𝑘𝑔 𝑚2 𝑠−1",
+    "C": "𝑘𝑔 𝑚2 𝑠−2",
+    "D": "𝑘𝑔 𝑚−2 𝑠−1",
+    "Correct": "𝑘𝑔 𝑚2 𝑠−1"
+  },
+  {
+    "question": "The rate of change of angular displacement is called:",
+    "A": "Angular displacement",
+    "B": "Angular velocity",
+    "C": "Angular acceleration",
+    "D": "Torque",
+    "Correct": "Angular velocity"
+  },
+  {
+    "question": "Revolution/minute is the unit for:",
+    "A": "Angular displacement",
+    "B": "Angular acceleration",
+    "C": "Angular velocity",
+    "D": "Time",
+    "Correct": "Angular velocity"
+  },
+  {
+    "question": "Time rate of change of angular velocity is called:",
+    "A": "Angular momentum",
+    "B": "Angular displacement",
+    "C": "Angular acceleration",
+    "D": "None of these",
+    "Correct": "Angular acceleration"
+  },
+  {
+    "question": "The angular acceleration is produced by:",
+    "A": "Momentum",
+    "B": "Torque",
+    "C": "Pressure",
+    "D": "Power",
+    "Correct": "Torque"
+  },
+  {
+    "question": "A particle is moving in a circle with constant speed. The direction of centripetal force will be:",
+    "A": "Along the tangent",
+    "B": "Along radius towards center",
+    "C": "Along radius away from center",
+    "D": "Changing with motion",
+    "Correct": "Along radius towards center"
+  },
+  {
+    "question": "Moment of inertia is equal to:",
+    "A": "𝑚2𝑟",
+    "B": "𝑚2𝑟2",
+    "C": "𝑚 𝑟",
+    "D": "𝑚 𝑟2",
+    "Correct": "𝑚 𝑟2"
+  },
+  {
+    "question": "Moment of inertia is measured in:",
+    "A": "𝑘𝑔 𝑚2",
+    "B": "𝑘𝑔 𝑚−2",
+    "C": "𝑁 𝑠",
+    "D": "𝑟𝑎𝑑/𝑠",
+    "Correct": "𝑘𝑔 𝑚2"
+  },
+  {
+    "question": "The angular momentum is given by:",
+    "A": "mω",
+    "B": "ω ×F",
+    "C": "r ×F",
+    "D": "r ×p",
+    "Correct": "r ×p"
+  },
+  {
+    "question": "The period of a circular motion is given by.",
+    "A": "T = rV",
+    "B": "T = w",
+    "C": "T = 2",
+    "D": "T = 2/",
+    "Correct": "T = 2/"
+  },
+  {
+    "question": "The direction of linear velocity of body moving in a circle is.",
+    "A": "Along the axis of rotation",
+    "B": "Along the tangent",
+    "C": "Directed towards the center",
+    "D": "Directed away from the center",
+    "Correct": "Along the tangent"
+  },
+  {
+    "question": "The circumference subtends an angle.",
+    "A": "Radian",
+    "B": "2 radian",
+    "C": "/2 radian",
+    "D": "4 radian",
+    "Correct": "2 radian"
+  },
+  {
+    "question": "The relation between linear and angular acceleration is.",
+    "A": "  = a  x r ",
+    "B": "a  = r  x  ",
+    "C": "a  =   x r ",
+    "D": "r  =   x a ",
+    "Correct": "a  = r  x  "
+  },
+  {
+    "question": "When a body is whirled in a horizontal circle by means of a string the centripetal force is supplied by.",
+    "A": "Mass of a body",
+    "B": "Velocity of body",
+    "C": "Tension in the string",
+    "D": "None of these",
+    "Correct": "Tension in the string"
+  },
+  {
+    "question": "Centripetal force performs",
+    "A": "Maximum work",
+    "B": "Minimum work",
+    "C": "Negative work",
+    "D": "No work",
+    "Correct": "No work"
+  },
+  {
+    "question": "When a body moves in a circle of radius 'r' with linear speed 'V', its centripetal force is.",
+    "A": "mv / r2",
+    "B": "mv / r",
+    "C": "mv2 / r",
+    "D": "mv2 / r2",
+    "Correct": "mv2 / r"
+  },
+  {
+    "question": "The angular acceleration of a body is directed",
+    "A": "Towards the center of the circle",
+    "B": "Away from the center of the circle",
+    "C": "Along the tangent to the circle",
+    "D": "Along the axis of rotation",
+    "Correct": "Along the axis of rotation"
+  },
+  {
+    "question": "The magnitude of the centripetal force on a mass m moving with angular speed ω in a circle of radius r is",
+    "A": "𝑚𝑟2ω",
+    "B": "𝑚𝑟2",
+    "C": "𝑚𝑟 ω",
+    "D": "𝑚𝑟 ω2",
+    "Correct": "𝑚𝑟 ω2"
+  },
+  {
+    "question": "The dimension of angular acceleration is:",
+    "A": "𝑇−1",
+    "B": "𝑇−2",
+    "C": "𝑇−3",
+    "D": "𝐿𝑇−2",
+    "Correct": "𝑇−2"
+  },
+  {
+    "question": "A gymnast sitting on stool with his arms outstretched lowers his arms:",
+    "A": "The angular speed decreases",
+    "B": "The angular speed increases",
+    "C": "Neither increases nor decrease",
+    "D": "Both increases and decreases",
+    "Correct": "The angular speed increases"
+  },
+  {
+    "question": "When torque acting on a system is zero, which of the following will be constant:",
+    "A": "Linear momentum",
+    "B": "Force",
+    "C": "Angular momentum",
+    "D": "Impulse",
+    "Correct": "Angular momentum"
+  },
+  {
+    "question": "The rotational K.E of any hoop of radius “r” is given by:",
+    "A": "1/2",
+    "B": "1/2",
+    "C": "1/2 m r2 ω2",
+    "D": "ω2",
+    "Correct": "1/2"
+  },
+  {
+    "question": "Unit of angular velocity in SI unit is:",
+    "A": "Rad./s",
+    "B": "m/s",
+    "C": "degree/s",
+    "D": "Revolution/s",
+    "Correct": "Rad./s"
+  },
+  {
+    "question": "Angular speed of daily rotation of earth is:",
+    "A": "2π rad./s",
+    "B": "π rad./s",
+    "C": "4π rad./s",
+    "D": "7.3×10−5 rad./s",
+    "Correct": "7.3×10−5 rad./s"
+  },
+  {
+    "question": "The rotational K.E of a body is given by:",
+    "A": "1/2",
+    "B": "1/3 Iω3",
+    "C": "ω2",
+    "D": "1/2 Iω2",
+    "Correct": "1/2 Iω2"
+  },
+  {
+    "question": "The minimum velocity necessary to put a satellite into orbit is:",
+    "A": "7.1 km/s",
+    "B": "7.3 km/s",
+    "C": "7.9 km/s",
+    "D": "8.9 km/s",
+    "Correct": "7.9 km/s"
+  },
+  {
+    "question": "The apparent weight of a man in an ascending lift moving with acceleration 'a':",
+    "A": "Increases",
+    "B": "Decreases",
+    "C": "Remains constant",
+    "D": "Becomes zero",
+    "Correct": "Increases"
+  },
+  {
+    "question": "The apparent weight of a man in a lift moving down with an acceleration of 9.8 m/s2 is:",
+    "A": "Zero",
+    "B": "9.8 N",
+    "C": "19.6 N",
+    "D": "Infinity",
+    "Correct": "Zero"
+  },
+  {
+    "question": "Which electromagnetic wave are used as medium in satellite communication system:",
+    "A": "Microwaves",
+    "B": "Radio waves",
+    "C": "Infrared waves",
+    "D": "Ultraviolet waves",
+    "Correct": "Microwaves"
+  },
+  {
+    "question": "The minimum number of communication satellites required to cover the whole earth is:",
+    "A": 4,
+    "B": 3,
+    "C": 2,
+    "D": 5,
+    "Correct": 2
+  },
+  {
+    "question": "The critical speed of an artificial satellite is.",
+    "A": "6 km/s",
+    "B": "8.1 km/s",
+    "C": "7.9 km/s",
+    "D": "8 m/s",
+    "Correct": "7.9 km/s"
+  },
+  {
+    "question": "Geo-stationary satellite completes one rotation around earth in.",
+    "A": "3 hours",
+    "B": "6 hours",
+    "C": "12 hours",
+    "D": "24 hours",
+    "Correct": "24 hours"
+  },
+  {
+    "question": "In case planets the necessary acceleration is provided by.",
+    "A": "Gravitational force",
+    "B": "Frictional force",
+    "C": "Coulomb force",
+    "D": "Centripetal force",
+    "Correct": "Gravitational force"
+  },
+  {
+    "question": "The acceleration of a freely falling body is:",
+    "A": "Zero",
+    "B": "9.8 m/s²",
+    "C": "32 m/s²",
+    "D": "-9.8 m/s²",
+    "Correct": "9.8 m/s²"
+  },
+  {
+    "question": "A man of weight W is standing on an elevator which is ascending with an acceleration 'a'. The apparent weight of the man is.",
+    "A": "mg",
+    "B": "mg - ma",
+    "C": "mg + ma",
+    "D": "mg - ma",
+    "Correct": "mg + ma"
+  },
+  {
+    "question": "If a body of mass 10 kg is allowed to fall freely, its weight becomes.",
+    "A": "zero",
+    "B": "98N",
+    "C": "9.8N",
+    "D": "10N",
+    "Correct": "98N"
+  },
+  {
+    "question": "Pull of earth on a mass of 20 kg on the surface of the earth is",
+    "A": "20 N",
+    "B": "196 N",
+    "C": "19.6 N",
+    "D": "1960 N",
+    "Correct": "196 N"
+  },
+  {
+    "question": "The S.I units of spring constant are:",
+    "A": "m−1",
+    "B": "N m−1",
+    "C": "N m−2",
+    "D": "N m2",
+    "Correct": "N m−1"
+  },
+  {
+    "question": "If F = 0.08 N and x = 4 cm then k =",
+    "A": "6 N m−1",
+    "B": "4 N m−1",
+    "C": "8 N m−1",
+    "D": "2 N m−1",
+    "Correct": "8 N m−1"
+  },
+  {
+    "question": "In SHM, the restoring force is directly proportional to",
+    "A": "Velocity",
+    "B": "Acceleration",
+    "C": "Displacement",
+    "D": "Time period",
+    "Correct": "Displacement"
+  },
+  {
+    "question": "One complete round trip of a vibrating body is called",
+    "A": "Time period",
+    "B": "Frequency",
+    "C": "Vibration",
+    "D": "Amplitude",
+    "Correct": "Vibration"
+  },
+  {
+    "question": "The time required to complete one vibration is called",
+    "A": "Time period",
+    "B": "Frequency",
+    "C": "Time period",
+    "D": "Velocity",
+    "Correct": "Time period"
+  },
+  {
+    "question": "The force which opposes the applied force producing the displacement in the spring is called",
+    "A": "Restoring force",
+    "B": "Periodic force",
+    "C": "Centripetal force",
+    "D": "Resistive force",
+    "Correct": "Restoring force"
+  },
+  {
+    "question": "The expression for instantaneous displacement of particle executing SHM is:",
+    "A": "a = −ω2x",
+    "B": "x = x0 sin ωt",
+    "C": "F = kx",
+    "D": "All of above",
+    "Correct": "All of above"
+  },
+  {
+    "question": "Acceleration of a projection on the diameter for a particle moving along a circle is:",
+    "A": "w2x",
+    "B": "wx2",
+    "C": "−w2x",
+    "D": "−wx2",
+    "Correct": "−w2x"
+  },
+  {
+    "question": "In equation of SHM, a = −ω2x, the negative sign indicates the direction of motion of particle",
+    "A": "Away from mean position",
+    "B": "Perpendicular to mean position",
+    "C": "Towards mean position",
+    "D": "None of above",
+    "Correct": "Towards mean position"
+  },
+  {
+    "question": "The number of vibrations completed by a body in one second is called",
+    "A": "Time period",
+    "B": "Frequency",
+    "C": "Total vibrations",
+    "D": "Displacement",
+    "Correct": "Frequency"
+  },
+  {
+    "question": "Simple harmonic motion is a type of:",
+    "A": "Rotational motion",
+    "B": "Circular motion",
+    "C": "Musical arrangement",
+    "D": "Vibratory motion",
+    "Correct": "Vibratory motion"
+  },
+  {
+    "question": "If f is the frequency of a body executing SHM, its angular frequency ω is:",
+    "A": "4πf",
+    "B": "3πf",
+    "C": "2πf",
+    "D": "None of these",
+    "Correct": "2πf"
+  },
+  {
+    "question": "The distance of vibrating body at any instant from its equilibrium position is called",
+    "A": "Displacement",
+    "B": "Frequency",
+    "C": "Amplitude",
+    "D": "Time period",
+    "Correct": "Displacement"
+  },
+  {
+    "question": "SI unit of frequency is:",
+    "A": "Radian",
+    "B": "m s−1",
+    "C": "Hertz",
+    "D": "Meter",
+    "Correct": "Hertz"
+  },
+  {
+    "question": "The product of time period and frequency is:",
+    "A": "Zero",
+    "B": 1,
+    "C": "π",
+    "D": "None of these",
+    "Correct": 1
+  },
+  {
+    "question": "The phase angle θ = ωt of the body performing SHM indicates:",
+    "A": "Only direction of motion",
+    "B": "Only magnitude of displacement",
+    "C": "Both magnitude of displacement and direction of motion",
+    "D": "None of these",
+    "Correct": "Both magnitude of displacement and direction of motion"
+  },
+  {
+    "question": "In SHM, the velocity of the particle is maximum at:",
+    "A": "Mean position",
+    "B": "Extreme position",
+    "C": "In between mean and extreme position",
+    "D": "",
+    "Correct": "Mean position"
+  },
+  {
+    "question": "Angular velocity of vibrating body attached with horizontal mass spring system is given by:",
+    "A": "ω = k/m",
+    "B": "ω = k/m",
+    "C": "ω = k/m",
+    "D": "ω = k/m",
+    "Correct": "ω = k/m"
+  },
+  {
+    "question": "For a body executing S.H.M, its",
+    "A": "Momentum remains constant",
+    "B": "Potential energy remains constant",
+    "C": "Kinetic energy remains constant",
+    "D": "Total energy remains constant",
+    "Correct": "Total energy remains constant"
+  },
+  {
+    "question": "Frequency of the second pendulum is:",
+    "A": "2.5 Hz",
+    "B": "0.5 Hz",
+    "C": "1.5 Hz",
+    "D": "2 Hz",
+    "Correct": "0.5 Hz"
+  },
+  {
+    "question": "The time period of a second pendulum is-",
+    "A": "4 seconds",
+    "B": "3 seconds",
+    "C": "2 seconds",
+    "D": "6 seconds",
+    "Correct": "2 seconds"
+  },
+  {
+    "question": "The length of second pendulum is.",
+    "A": "100 cm",
+    "B": "99 cm",
+    "C": "99.2 cm",
+    "D": "98 cm",
+    "Correct": "99.2 cm"
+  },
+  {
+    "question": "The restoring force acting on simple pendulum is given by.",
+    "A": "mgsin θ",
+    "B": "−mgsinθ",
+    "C": "mgcos θ",
+    "D": "−mgcosθ",
+    "Correct": "−mgsinθ"
+  },
+  {
+    "question": "Which expression is correct for the time period of a simple pendulum:",
+    "A": "T ∝ L",
+    "B": "T ∝ m",
+    "C": "T ∝ L",
+    "D": "T ∝ m",
+    "Correct": "T ∝ L"
+  },
+  {
+    "question": "If the displacement of a body executing S.H.M is plotted against time, then the curve is known",
+    "A": "Frequency of S.H.M",
+    "B": "Period of S.H.M",
+    "C": "Wave form",
+    "D": "None of them",
+    "Correct": "Wave form"
+  },
+  {
+    "question": "The waveform of simple harmonic motion is:",
+    "A": "Sine wave",
+    "B": "Square wave",
+    "C": "Pulsed wave",
+    "D": "None of these",
+    "Correct": "Sine wave"
+  },
+  {
+    "question": "An object undergoes S.H.M has maximum speed when its displacement from the mean position is",
+    "A": "Maximum speed",
+    "B": "Zero",
+    "C": "Half of the maximum value",
+    "D": "One third of the maximum value",
+    "Correct": "Zero"
+  },
+  {
+    "question": "An object undergoes S.H.M has maximum acceleration when its displacement from the mean position is",
+    "A": "Maximum",
+    "B": "Zero",
+    "C": "Half of the maximum value",
+    "D": "One third of the maximum value",
+    "Correct": "Maximum"
+  },
+  {
+    "question": "In simple harmonic motion:",
+    "A": "P.E remains constant",
+    "B": "K.E remain constant",
+    "C": "Total energy remain constant",
+    "D": "Total momentum remain constant",
+    "Correct": "Total energy remain constant"
+  },
+  {
+    "question": "The motion of simple pendulum is SHM only if:",
+    "A": "Amplitude is large",
+    "B": "Mass is small",
+    "C": "Amplitude is small",
+    "D": "Length is small",
+    "Correct": "Amplitude is small"
+  },
+  {
+    "question": "In S.H.M, the velocity of a particle is maximum at:",
+    "A": "Mean position",
+    "B": "Extreme position",
+    "C": "Middle between mean and extreme position on the right side",
+    "D": "Middle between mean and extreme position on the left side",
+    "Correct": "Mean position"
+  },
+  {
+    "question": "The displacement of SHM is written as X = Xo sin ωt, If displacement is written by X = Xo cos ωt then phase constant will be equal to:",
+    "A": "0°",
+    "B": "45°",
+    "C": "90°",
+    "D": "180°",
+    "Correct": "90°"
+  },
+  {
+    "question": "The angle θ = ωt which specifies the displacement as well as direction of motion of the point executing SHM is known as:",
+    "A": "Critical angle",
+    "B": "Phase angle",
+    "C": "Plane angle",
+    "D": "Solid angle",
+    "Correct": "Phase angle"
+  },
+  {
+    "question": "The process in which energy is dissipated in oscillating system is called:",
+    "A": "Resonance",
+    "B": "Damping",
+    "C": "Forced oscillation",
+    "D": "None of these",
+    "Correct": "Damping"
+  },
+  {
+    "question": "In damped harmonic oscillation, which one deceases?",
+    "A": "Amplitude of vibration",
+    "B": "Energy of vibration",
+    "C": "Both amplitude and energy",
+    "D": "Neither amplitude nor energy",
+    "Correct": "Both amplitude and energy"
+  },
+  {
+    "question": "A physical system undergoing forced vibrations is known as",
+    "A": "Driven harmonic oscillator",
+    "B": "Resonance",
+    "C": "Simple harmonic oscillator",
+    "D": "None of above",
+    "Correct": "Driven harmonic oscillator"
+  },
+  {
+    "question": "When θ is small, sin θ is approximately equal to",
+    "A": "2θ",
+    "B": "Zero",
+    "C": "θ",
+    "D": "θ²",
+    "Correct": "θ"
+  },
+  {
+    "question": "At mean position, during SHM:",
+    "A": "P.E is maximum and K.E is minimum",
+    "B": "P.E is minimum and K.E is maximum",
+    "C": "Both K.E and P.E are maximum",
+    "D": "Both K.E and P.E are minimum",
+    "Correct": "P.E is minimum and K.E is maximum"
+  },
+  {
+    "question": "Phase of SHM describes",
+    "A": "Displacement only",
+    "B": "Direction of motion only",
+    "C": "Both displacement and direction of motion",
+    "D": "Neither displacement nor direction of motion",
+    "Correct": "Both displacement and direction of motion"
+  },
+  {
+    "question": "Natural frequency of simple pendulum depends upon:",
+    "A": "Its mass",
+    "B": "Its length",
+    "C": "Square of its length",
+    "D": "Square root of its length",
+    "Correct": "Square root of its length"
+  },
+  {
+    "question": "When the bob of simple pendulum is at extreme position, it has",
+    "A": "K.E",
+    "B": "P.E",
+    "C": "Both P.E and K.E",
+    "D": "",
+    "Correct": "P.E"
+  },
+  {
+    "question": "Tuning of radio set is an example of",
+    "A": "Mechanical resonance",
+    "B": "Musical resonance",
+    "C": "Electrical resonance",
+    "D": "Free vibration",
+    "Correct": "Electrical resonance"
+  },
+  {
+    "question": "The frequency of waves produced in microwaves oven is:",
+    "A": "1435 MHz",
+    "B": "2450 MHz",
+    "C": "1860 MHz",
+    "D": "2850 MHz",
+    "Correct": "2450 MHz"
+  },
+  {
+    "question": "Sharpness of resonance is.",
+    "A": "Directly proportional to damping force",
+    "B": "Inversely proportional to damping force",
+    "C": "Equal to square of damping force",
+    "D": "None of these",
+    "Correct": "Inversely proportional to damping force"
+  },
+  {
+    "question": "Which one does not work according to resonance?",
+    "A": "T.V",
+    "B": "Radio",
+    "C": "Microwave oven",
+    "D": "Bulb",
+    "Correct": "Bulb"
+  },
+  {
+    "question": "The oscillations in which amplitude decreased steadily with time are called:",
+    "A": "Natural oscillations",
+    "B": "Free oscillation",
+    "C": "Damped oscillations",
+    "D": "Forced oscillations",
+    "Correct": "Damped oscillations"
+  },
+  {
+    "question": "Distance covered during one vibration of an oscillating body in term of amplitude A is:",
+    "A": "A²",
+    "B": "A",
+    "C": "2A",
+    "D": "4A",
+    "Correct": "2A"
+  },
+  {
+    "question": "The least distance of distinct vision for a normal eye is:",
+    "A": "15 cm",
+    "B": "25 cm",
+    "C": "30 cm",
+    "D": "40 cm",
+    "Correct": "25 cm"
+  },
+  {
+    "question": "A point where the incident parallel rays of light converge or appear to diverge after passing through a lens is called:",
+    "A": "Center of curvature",
+    "B": "Focus",
+    "C": "Optical centre",
+    "D": "Aperture",
+    "Correct": "Focus"
+  },
+  {
+    "question": "A lens which converges a beam of parallel rays to a point is called:",
+    "A": "Diverging (or concave) lens",
+    "B": "Converging (or convex) lens",
+    "C": "Plano concave lens",
+    "D": "Plano convex lens",
+    "Correct": "Converging (or convex) lens"
+  },
+  {
+    "question": "A real object placed inside the focus of a convex lens gives:",
+    "A": "Real image but diminished",
+    "B": "Real image but enlarge",
+    "C": "Virtual image but diminished",
+    "D": "Virtual image but enlarge",
+    "Correct": "Virtual image but enlarge"
+  },
+  {
+    "question": "The power of the lens is measured in:",
+    "A": "Watt",
+    "B": "Joule",
+    "C": "Diopter",
+    "D": "Minutes",
+    "Correct": "Diopter"
+  },
+  {
+    "question": "The magnifying power of a compound microscope is given by:",
+    "A": "??/ ?? (1+???? /??)",
+    "B": "?? /?? ( 1+ ??/ ????)",
+    "C": "?? /?? ( 1+????/ ?? )",
+    "D": "??/ ??( 1+ ??/ ????)",
+    "Correct": "?? /?? ( 1+ ??/ ????)"
+  },
+  {
+    "question": "The magnifying power of an astronomical telescope is:",
+    "A": "??? + ???",
+    "B": "??? ? ???",
+    "C": "??????",
+    "D": "??? / ???",
+    "Correct": "??? / ???"
+  },
+  {
+    "question": "For normal adjustment, the length of astronomical telescope is:",
+    "A": "??? + ???",
+    "B": "??? ? ???",
+    "C": "??????",
+    "D": "??? / ???",
+    "Correct": "??? ? ???"
+  },
+  {
+    "question": "For the phenomenon of total internal reflection, the angle of incidence should be:",
+    "A": "Equal to critical angle",
+    "B": "Smaller than critical angle",
+    "C": "Greater than critical angle",
+    "D": "Zero",
+    "Correct": "Greater than critical angle"
+  },
+  {
+    "question": "If a single convex lens is placed close to the eye, it can be used as a:",
+    "A": "Telescope",
+    "B": "Simple microscope",
+    "C": "Compound microscope",
+    "D": "Refracting telescope",
+    "Correct": "Simple microscope"
+  },
+  {
+    "question": "The magnifying power of a simple microscope is:",
+    "A": "1 + (d/f)",
+    "B": "1 ? (d/f)",
+    "C": "1 + (f/d)",
+    "D": "1 ? (f/d)",
+    "Correct": "1 + (d/f)"
+  },
+  {
+    "question": "Refractive index is given by:",
+    "A": "c/v",
+    "B": "v/c",
+    "C": "?(c/v)",
+    "D": "?(v/c)",
+    "Correct": "c/v"
+  },
+  {
+    "question": "The value of critical angle for glass-air boundary is:",
+    "A": "41.8°",
+    "B": "41.5°",
+    "C": "42.8°",
+    "D": "42°",
+    "Correct": "42.8°"
+  },
+  {
+    "question": "In Michelsonâs experiment, the equation used to find the speed of light is:",
+    "A": "?? =16 ??d",
+    "B": "c = 16f/d",
+    "C": "c = 16d/f",
+    "D": "c = 1/16 fd",
+    "Correct": "?? =16 ??d"
+  },
+  {
+    "question": "The instrument which is used to measure the speed of light was developed by:",
+    "A": "Newton",
+    "B": "Galileo",
+    "C": "Michelson",
+    "D": "Graham Bell",
+    "Correct": "Michelson"
+  },
+  {
+    "question": "In going from a denser to rarer medium a ray of light is:",
+    "A": "Un-deviated",
+    "B": "Bent away from the normal",
+    "C": "Bent towards the normal",
+    "D": "Polarized",
+    "Correct": "Bent away from the normal"
+  },
+  {
+    "question": "At some angle of incidence, when angle of refraction becomes 90Â°, this angle is called:",
+    "A": "Phase angle",
+    "B": "Incident angle",
+    "C": "Refractive angle",
+    "D": "Critical angle",
+    "Correct": "Critical angle"
+  },
+  {
+    "question": "In multimode step index fiber the refractive index of core and cladding is:",
+    "A": "Same",
+    "B": "Different",
+    "C": "Zero",
+    "D": "Different with refractive index of core higher than cladding",
+    "Correct": "Different with refractive index of core higher than cladding"
+  },
+  {
+    "question": "Dispersion effect may produce error in light signals. This type of error is minimum in:",
+    "A": "Single mode step index fiber",
+    "B": "Multimode step index fiber",
+    "C": "Multimode graded index fiber",
+    "D": "Monomode step index fiber",
+    "Correct": "Single mode step index fiber"
+  },
+  {
+    "question": "Light signals pass through multimode graded fiber due to:",
+    "A": "Continuous refraction",
+    "B": "Total internal reflection",
+    "C": "Both continuous refraction and total internal reflection",
+    "D": "Diffraction",
+    "Correct": "Total internal reflection"
+  },
+  {
+    "question": "Critical angle is that incident angle in denser medium for which angle of refraction is:",
+    "A": "0°",
+    "B": "45°",
+    "C": "90°",
+    "D": "180°",
+    "Correct": "90°"
+  },
+  {
+    "question": "The electrical signals change into light signals for transmission through optical fiber. A light pulse represents:",
+    "A": "Zero (0)",
+    "B": "One (1)",
+    "C": "Both zero (0) and one (1)",
+    "D": "Neither zero (0) nor one (1)",
+    "Correct": "One (1)"
+  },
+  {
+    "question": "The optical fiber in which the central core has higher refractive index and its density gradually decreases towards its periphery is called:",
+    "A": "Single mode index fiber",
+    "B": "Multi mode index fiber",
+    "C": "Multi mode graded index fiber",
+    "D": "None of these",
+    "Correct": "Multi mode graded index fiber"
+  },
+  {
+    "question": "Which of the phenomenon of light is used in propagation of light through optical fibers?",
+    "A": "Total internal reflection",
+    "B": "Polarization",
+    "C": "Interference",
+    "D": "Diffraction",
+    "Correct": "Total internal reflection"
+  },
+  {
+    "question": "The study of properties of fluids in motion is called",
+    "A": "Fluid",
+    "B": "Fluid statics",
+    "C": "Fluid dynamics",
+    "D": "None",
+    "Correct": "Fluid dynamics"
+  },
+  {
+    "question": "The dimensions of coefficient of viscosity are",
+    "A": "ML1T-1",
+    "B": "M2L1T1",
+    "C": "ML-1T-1",
+    "D": "M2L-1T-1",
+    "Correct": "ML-1T-1"
+  },
+  {
+    "question": "𝜂 Is denoted for coefficient of",
+    "A": "Friction",
+    "B": "Viscosity",
+    "C": "Linear expansion",
+    "D": "Gravitational customer",
+    "Correct": "Viscosity"
+  },
+  {
+    "question": "The SI unit of coefficient of viscosity is",
+    "A": "𝑘𝑔 𝑚−1 𝑠−1",
+    "B": "𝑘𝑔 𝑚−2 𝑠−1",
+    "C": "𝑘𝑔 𝑚−2𝑠−2",
+    "D": "𝑘𝑔 𝑚2 𝑠",
+    "Correct": "𝑘𝑔 𝑚−1 𝑠−1"
+  },
+  {
+    "question": "An object moving through a fluid experiences a retarding force called",
+    "A": "Drag force",
+    "B": "Gravitational force",
+    "C": "Terminating force",
+    "D": "Frictional force",
+    "Correct": "Drag force"
+  },
+  {
+    "question": "The equation 𝐹 = 6𝜋𝜂𝑟𝑣 is called",
+    "A": "Newton’s law",
+    "B": "Stoke’s law",
+    "C": "Ohm’s law",
+    "D": "Lenz’s law",
+    "Correct": "Stoke’s law"
+  },
+  {
+    "question": "Stokes law is applicable if body has __________ shape",
+    "A": "Rough",
+    "B": "Square",
+    "C": "Circular",
+    "D": "Spherical",
+    "Correct": "Spherical"
+  },
+  {
+    "question": "The drag force F on a sphere of radius r moving slowly with speed v through a fluid of viscosity 𝜂 is",
+    "A": "6𝜋𝜂 𝑟2 𝑣",
+    "B": "6𝜋𝜂 𝑟  𝑣",
+    "C": "6𝜋2𝜂 𝑟  𝑣",
+    "D": "6𝜋𝜂 𝑟 𝑣2",
+    "Correct": "6𝜋𝜂 𝑟  𝑣"
+  },
+  {
+    "question": "Drag force is given by",
+    "A": "Newton’s law",
+    "B": "Pascal’s law",
+    "C": "Gauss’s law",
+    "D": "Stoke’s law",
+    "Correct": "Stoke’s law"
+  },
+  {
+    "question": "When weight of an object falling freely becomes equal to the drag force, then the body will move with",
+    "A": "Increasing speed",
+    "B": "Decreasing speed",
+    "C": "Constant speed",
+    "D": "None of them",
+    "Correct": "Constant speed"
+  },
+  {
+    "question": "The maximum constant velocity of an object falling vertically downward is called",
+    "A": "Final velocity",
+    "B": "Terminal velocity",
+    "C": "Initial velocity",
+    "D": "None of these",
+    "Correct": "Terminal velocity"
+  },
+  {
+    "question": "The drag force increases as the speed of the object",
+    "A": "Increases",
+    "B": "Decreases",
+    "C": "Remain constant",
+    "D": "None of these",
+    "Correct": "Increases"
+  },
+  {
+    "question": "When the body reaches its terminal velocity, the acceleration of the body becomes",
+    "A": "Maximum speed",
+    "B": "Minimum speed",
+    "C": "Zero",
+    "D": "Constant quantity",
+    "Correct": "Zero"
+  },
+  {
+    "question": "As the water falls from tap, its speed increases and cross sectional area",
+    "A": "Zero",
+    "B": "Increases",
+    "C": "Decreases",
+    "D": "Remains constant",
+    "Correct": "Decreases"
+  },
+  {
+    "question": "Terminal velocity is given by equation",
+    "A": "Vt = 2gr2/9η",
+    "B": "Vt = gr2/9η",
+    "C": "Vt = gr2/9η",
+    "D": "Vt = 9gr2/2η",
+    "Correct": "Vt = gr2/9η"
+  },
+  {
+    "question": "If radius of droplet becomes half then its terminal velocity will be",
+    "A": "Half",
+    "B": "Double",
+    "C": "One forth",
+    "D": "Four times",
+    "Correct": "One forth"
+  },
+  {
+    "question": "Turbulent flow is",
+    "A": "Unsteady and regular",
+    "B": "Steady and regular",
+    "C": "Unsteady and irregular",
+    "D": "Steady and regular",
+    "Correct": "Unsteady and irregular"
+  },
+  {
+    "question": "The flow of ideal fluid is always",
+    "A": "Turbulent",
+    "B": "Streamline",
+    "C": "Irregular",
+    "D": "Straight line",
+    "Correct": "Streamline"
+  },
+  {
+    "question": "Irregular flow of fluid is called",
+    "A": "Streamline",
+    "B": "Turbulent",
+    "C": "Uniform",
+    "D": "Laminar",
+    "Correct": "Turbulent"
+  },
+  {
+    "question": "According to equation of continuity, A1V1 = A2V2 = constant. The constant is equal to",
+    "A": "Flow rate",
+    "B": "Volume of fluid",
+    "C": "Mass of fluid",
+    "D": "Density of fluid",
+    "Correct": "Flow rate"
+  },
+  {
+    "question": "If cross-sectional area of pipe decreases, the speed of fluid must increase according to",
+    "A": "Venturi relation",
+    "B": "Bernoulli’s equation",
+    "C": "Equation of continuity",
+    "D": "Torricelli’s theorem",
+    "Correct": "Equation of continuity"
+  },
+  {
+    "question": "In equation of continuity, the units of Av is given as",
+    "A": "Cubic meter",
+    "B": "Cubic meter per second",
+    "C": "Square meter per second",
+    "D": "Square meter",
+    "Correct": "Cubic meter per second"
+  },
+  {
+    "question": "The law of conservation of mass gives",
+    "A": "Bernoulli’s equation",
+    "B": "Equation of continuity",
+    "C": "Torricelli theorem",
+    "D": "None of these",
+    "Correct": "Equation of continuity"
+  },
+  {
+    "question": "Bernoulli’s theorem applies to",
+    "A": "Solids",
+    "B": "Plasma state",
+    "C": "Fluids",
+    "D": "Liquids",
+    "Correct": "Fluids"
+  },
+  {
+    "question": "Velocity of fluid increases where the pressure is",
+    "A": "Low",
+    "B": "High",
+    "C": "Constant",
+    "D": "Changes continuously",
+    "Correct": "Low"
+  },
+  {
+    "question": "Equation of continuity is obtained by applying law of conservation of",
+    "A": "Mass",
+    "B": "Energy",
+    "C": "Momentum",
+    "D": "All",
+    "Correct": "Mass"
+  },
+  {
+    "question": "Speed of efflux can be determined by applying",
+    "A": "Pressure-velocity relationship",
+    "B": "Torricelli’s theorem",
+    "C": "Venture relation",
+    "D": "All",
+    "Correct": "Torricelli’s theorem"
+  },
+  {
+    "question": "Venturi meter is a device used to measure",
+    "A": "Pressure of the fluid",
+    "B": "Speed of fluid",
+    "C": "Density of fluid",
+    "D": "Viscosity of the fluid",
+    "Correct": "Speed of fluid"
+  },
+  {
+    "question": "A man standing near a fast moving train may fall",
+    "A": "Away from the train",
+    "B": "Towards the train",
+    "C": "On himself",
+    "D": "None of these",
+    "Correct": "Towards the train"
+  },
+  {
+    "question": "Bernoulli’s equation is obtained by applying law of conservation of",
+    "A": "Mass",
+    "B": "Energy",
+    "C": "Momentum",
+    "D": "Fluid",
+    "Correct": "Energy"
+  },
+  {
+    "question": "Ideal fluid is",
+    "A": "Non-viscous",
+    "B": "Incompressible",
+    "C": "Steady flow",
+    "D": "Possess all properties",
+    "Correct": "Possess all properties"
+  },
+  {
+    "question": "Velocity of efflux is measured by relation",
+    "A": "𝑔ℎ",
+    "B": "𝑔ℎ2",
+    "C": "2𝑔ℎ",
+    "D": "4𝑔ℎ3",
+    "Correct": "2𝑔ℎ"
+  },
+  {
+    "question": "The mathematical relation 𝑣 = 2𝑔 ℎ2 −ℎ1 is known as",
+    "A": "Equation of continuity",
+    "B": "Torricelli’s theorem",
+    "C": "Bernoulli’s equation",
+    "D": "Ventra relation",
+    "Correct": "Torricelli’s theorem"
+  },
+  {
+    "question": "Swing is produced to",
+    "A": "Increase the speed of ball",
+    "B": "Decrease the speed of ball",
+    "C": "Deceive the player",
+    "D": "Applying the force on the ball",
+    "Correct": "Deceive the player"
+  },
+  {
+    "question": "The blood pressure in the vessels is always",
+    "A": "Less than atmosphere",
+    "B": "Greater than atmosphere",
+    "C": "Equal to atmosphere",
+    "D": "133.3 𝑁 𝑚2",
+    "Correct": "Greater than atmosphere"
+  },
+  {
+    "question": "Instrument used to measure blood pressure is called",
+    "A": "Venturi meter",
+    "B": "Blood pressure",
+    "C": "Sphygmomanometer",
+    "D": "Sonometer",
+    "Correct": "Sphygmomanometer"
+  },
+  {
+    "question": "One Torr is expressed in 𝑁𝑚−2 as",
+    "A": "133.3 𝑁𝑚−2",
+    "B": "13.33 𝑁𝑚−2",
+    "C": "1333 𝑁𝑚−2",
+    "D": "1.333 𝑁𝑚−2",
+    "Correct": "133.3 𝑁𝑚−2"
+  },
+  {
+    "question": "Blood has density equal to that of",
+    "A": "Mercury",
+    "B": "Sodium",
+    "C": "Honey",
+    "D": "Water",
+    "Correct": "Honey"
+  },
+  {
+    "question": "For which position, blood pressure in the body have the smallest value?",
+    "A": "Standing straight",
+    "B": "Sitting on chair",
+    "C": "Sitting on ground",
+    "D": "Lying horizontally",
+    "Correct": "Lying horizontally"
+  },
+  {
+    "question": "The branch of physics which deals with the ultimate particles of which the matter is composed",
+    "A": "Plasma physics",
+    "B": "Atomic physics",
+    "C": "Nuclear physics",
+    "D": "Particle physics",
+    "Correct": "Particle physics"
+  },
+  {
+    "question": "The branch of physics which deals with atomic nuclei is called",
+    "A": "Acoustics",
+    "B": "Thermodynamics",
+    "C": "Magnetism",
+    "D": "Nuclear physics",
+    "Correct": "Nuclear physics"
+  },
+  {
+    "question": "Silicon is abundantly obtained from",
+    "A": "Water",
+    "B": "Metal",
+    "C": "Sand",
+    "D": "Stones",
+    "Correct": "Sand"
+  },
+  {
+    "question": "The number of base units are",
+    "A": "Three",
+    "B": "Five",
+    "C": "Seven",
+    "D": "Nine",
+    "Correct": "Seven"
+  },
+  {
+    "question": "Which of the following is a derived quantity",
+    "A": "Force",
+    "B": "Mass",
+    "C": "Length",
+    "D": "Time",
+    "Correct": "Force"
+  },
+  {
+    "question": "Which of the following is SI base unit?",
+    "A": "gram",
+    "B": "slug",
+    "C": "Newton",
+    "D": "kilogram",
+    "Correct": "kilogram"
+  },
+  {
+    "question": "Which one of the following is not a unit of length",
+    "A": "Angstrom",
+    "B": "Micron",
+    "C": "Radian",
+    "D": "Light year",
+    "Correct": "Radian"
+  },
+  {
+    "question": "Which is not a base unit in SI units?",
+    "A": "Kilogram",
+    "B": "Joule",
+    "C": "Ampere",
+    "D": "Kelvin",
+    "Correct": "Joule"
+  },
+  {
+    "question": "An example of derived unit is",
+    "A": "Candela",
+    "B": "Ampere",
+    "C": "Coulomb",
+    "D": "Mole",
+    "Correct": "Coulomb"
+  },
+  {
+    "question": "Candela is the SI unit of",
+    "A": "Charge",
+    "B": "Luminous intensity",
+    "C": "Power",
+    "D": "Refractive index",
+    "Correct": "Luminous intensity"
+  },
+  {
+    "question": "An alternate unit to",
+    "A": "Js",
+    "B": "Ns",
+    "C": "Nm",
+    "D": "N",
+    "Correct": "Ns"
+  },
+  {
+    "question": "The SI units of pressure in terms of base units are",
+    "A": "Pa",
+    "B": "Nm^-2",
+    "C": "Kg/ms^2",
+    "D": "m^2/s",
+    "Correct": "Pa"
+  },
+  {
+    "question": "The SI unit of plane angle is",
+    "A": "Steradian",
+    "B": "Radian",
+    "C": "Degree",
+    "D": "Candela",
+    "Correct": "Radian"
+  },
+  {
+    "question": "Steradian is the angle which lies in",
+    "A": "One dimension",
+    "B": "Two dimensions",
+    "C": "Three dimensions",
+    "D": "",
+    "Correct": "Three dimensions"
+  },
+  {
+    "question": "The SI unit of the solid angle is",
+    "A": "Degree",
+    "B": "Steradian",
+    "C": "Revolution",
+    "D": "Radian",
+    "Correct": "Steradian"
+  },
+  {
+    "question": "The solid angle subtended at the center of sphere by an area of its surface equal to the square of radius of the sphere is called",
+    "A": "Degree",
+    "B": "Radian",
+    "C": "Minute",
+    "D": "Steradian",
+    "Correct": "Steradian"
+  },
+  {
+    "question": "SI unit of pressure is",
+    "A": "Pascal",
+    "B": "atm",
+    "C": "Nm^-2",
+    "D": "Torr",
+    "Correct": "Nm^-2"
+  },
+  {
+    "question": "Which is a derived unit?",
+    "A": "Candela",
+    "B": "Ampere",
+    "C": "Kelvin",
+    "D": "Newton",
+    "Correct": "Newton"
+  },
+  {
+    "question": "Which one is the correct representation of the unit of pressure?",
+    "A": "Newton/Meter^2",
+    "B": "newton/meter^2",
+    "C": "Newton/meter^2",
+    "D": "Newton/Meter^2",
+    "Correct": "newton/meter^2"
+  },
+  {
+    "question": "Which of the following is least multiple?",
+    "A": "Pico",
+    "B": "Femto",
+    "C": "Nano",
+    "D": "Atto",
+    "Correct": "Atto"
+  },
+  {
+    "question": "Which one is the highest power multiple?",
+    "A": "Giga",
+    "B": "Mega",
+    "C": "Kilo",
+    "D": "Deca",
+    "Correct": "Giga"
+  },
+  {
+    "question": "The prefix pico is equal to",
+    "A": "10^-9",
+    "B": "10^-12",
+    "C": "10^-15",
+    "D": "10^-18",
+    "Correct": "10^-12"
+  },
+  {
+    "question": "The SI unit of intensity of light is",
+    "A": "Mole",
+    "B": "Kelvin",
+    "C": "Candela",
+    "D": "Ampere",
+    "Correct": "Candela"
+  },
+  {
+    "question": "0.0023 can be expressed in scientific notation as",
+    "A": "23×10^-4",
+    "B": "0.23×10^-2",
+    "C": "2.3×10^-3",
+    "D": "",
+    "Correct": "2.3×10^-3"
+  },
+  {
+    "question": "1024 can be written in scientific notation as",
+    "A": "1.024x 10^3",
+    "B": "2^10",
+    "C": 0.000976,
+    "D": "1/0300097",
+    "Correct": "1.024x 10^3"
+  },
+  {
+    "question": "Error occurs due to negligence and inexperience of a person is",
+    "A": "Systematic Error",
+    "B": "Random Error",
+    "C": "Personal Error",
+    "D": "",
+    "Correct": "Personal Error"
+  },
+  {
+    "question": "In any measurement the significant figures are",
+    "A": "All accurately known and all doubtful digits",
+    "B": "Only accurately known digits",
+    "C": "Only doubtful digits",
+    "D": "All accurately known digits and the first doubtful digit",
+    "Correct": "All accurately known digits and the first doubtful digit"
+  },
+  {
+    "question": "Number of significant figures in 0.0173 are",
+    "A": "Three",
+    "B": "Four",
+    "C": "Five",
+    "D": "Two",
+    "Correct": "Three"
+  },
+  {
+    "question": "75.560 is round off as",
+    "A": 75.6,
+    "B": 75.7,
+    "C": 76,
+    "D": "",
+    "Correct": 75.6
+  },
+  {
+    "question": "Zero to the right of non-zero digits are",
+    "A": "Significant",
+    "B": "Not significant",
+    "C": "May or may not be significant",
+    "D": "",
+    "Correct": "Significant"
+  },
+  {
+    "question": "What is the number of significant figures in the measurement recorded as 8.70 × 10^1",
+    "A": 1,
+    "B": 3,
+    "C": 4,
+    "D": 7,
+    "Correct": 3
+  },
+  {
+    "question": "Zero is not significant only if it",
+    "A": "Lies to the left of a significant digit",
+    "B": "Is between two digits",
+    "C": "Is to the right of a significant digit",
+    "D": "Is before the decimal point",
+    "Correct": "Lies to the left of a significant digit"
+  },
+  {
+    "question": "Significant figures in 0.000846 are",
+    "A": "Six",
+    "B": "Four",
+    "C": "Seven",
+    "D": "Three",
+    "Correct": "Three"
+  },
+  {
+    "question": "73.650 rounded off up to one decimal is",
+    "A": 73.6,
+    "B": 73.7,
+    "C": 74,
+    "D": 73.65,
+    "Correct": 73.6
+  },
+  {
+    "question": "Absolute uncertainties are added in following operations",
+    "A": "Multiplication",
+    "B": "Division",
+    "C": "Subtraction",
+    "D": "",
+    "Correct": "Subtraction"
+  },
+  {
+    "question": "An accurate measurement is one which has less",
+    "A": "Precision",
+    "B": "Absolute uncertainty",
+    "C": "Fractional uncertainty",
+    "D": "",
+    "Correct": "Fractional uncertainty"
+  },
+  {
+    "question": "Which is a correct record for the diameter of wire when measured by a screw gauge of least count 0.001 cm",
+    "A": "2.3 cm",
+    "B": "2.31 cm",
+    "C": "2.312 cm",
+    "D": "2.3124 cm",
+    "Correct": "2.312 cm"
+  },
+  {
+    "question": "Which one of the following is not regarded as a fundamental quantity in Physics?",
+    "A": "Length",
+    "B": "Mass",
+    "C": "Time",
+    "D": "Weight",
+    "Correct": "Weight"
+  },
+  {
+    "question": "The dimensions of torque are",
+    "A": "[M L T]",
+    "B": "[M L T^2]",
+    "C": "[M L^2 T^-2]",
+    "D": "[M L T^-1]",
+    "Correct": "[M L^2 T^-2]"
+  },
+  {
+    "question": "Dimensions for acceleration due to gravity are",
+    "A": "[M L T^-1]",
+    "B": "[M T^-2]",
+    "C": "[M L^-1 T^2]",
+    "D": "[L T^-2]",
+    "Correct": "[L T^-2]"
+  },
+  {
+    "question": "[T^-1] refers to quantity",
+    "A": "Velocity",
+    "B": "Time period",
+    "C": "Frequency",
+    "D": "Force",
+    "Correct": "Frequency"
+  },
+  {
+    "question": "The dimension of the following pair is not the same",
+    "A": "Work & Energy",
+    "B": "Work & Torque",
+    "C": "Momentum & Impulse",
+    "D": "Mass & Moment of Inertia",
+    "Correct": "Mass & Moment of Inertia"
+  },
+  {
+    "question": "Unit of G is",
+    "A": "Nm^2 kg^2",
+    "B": "N m^2 kg",
+    "C": "N m^2 kg^-2",
+    "D": "",
+    "Correct": "N m^2 kg^-2"
+  },
+  {
+    "question": "The dimension of force is",
+    "A": "M L T^-1",
+    "B": "M L T^-2",
+    "C": "M L^-1 T",
+    "D": "M L^-1 T^2",
+    "Correct": "M L T^-2"
+  },
+  {
+    "question": "ML^-1 T^-2 is the dimension of",
+    "A": "Force",
+    "B": "Pressure",
+    "C": "Momentum",
+    "D": "Energy",
+    "Correct": "Pressure"
+  },
+  {
+    "question": "A light year is a unit for",
+    "A": "Time",
+    "B": "Distance",
+    "C": "Velocity",
+    "D": "Time period",
+    "Correct": "Distance"
+  },
+  {
+    "question": "The dimensional formula for the quantity light year is",
+    "A": "[M]",
+    "B": "[L T^-1]",
+    "C": "[L]",
+    "D": "[M T^2]",
+    "Correct": "[M T^2]"
+  },
+  {
+    "question": "The dimensions of strain are",
+    "A": "[M L T^2]",
+    "B": "[M L^-2 T]",
+    "C": "[M^0 L^0 T^0]",
+    "D": "[M^-1 L^-1 T^-1]",
+    "Correct": "[M^0 L^0 T^0]"
+  },
+  {
+    "question": "How many years in one second?",
+    "A": "3.1×10^15 years",
+    "B": "3.1×10^-15 years",
+    "C": "3.1×10^8 years",
+    "D": "3.1×10^-8 years",
+    "Correct": "3.1×10^8 years"
+  },
+  {
+    "question": "The locus of all points in a medium having the same phase of vibration is called",
+    "A": "Crest",
+    "B": "Trough",
+    "C": "Wavelength",
+    "D": "Wave front",
+    "Correct": "Wave front"
+  },
+  {
+    "question": "The distance between two consecutive wave fronts is called",
+    "A": "Time period",
+    "B": "Frequency",
+    "C": "Wavelength",
+    "D": "Displacement",
+    "Correct": "Wavelength"
+  },
+  {
+    "question": "Which one of the following is nearly monochromatic light?",
+    "A": "Light form fluorescent tube",
+    "B": "Light form sodium lamp",
+    "C": "Light form neon lamp",
+    "D": "Light form simple lamp",
+    "Correct": "Light form sodium lamp"
+  },
+  {
+    "question": "Two sources of light are coherent if they emit rays of",
+    "A": "Same wavelength",
+    "B": "Same amplitude of vibration",
+    "C": "Same wave length with constant phase difference",
+    "D": "Same amplitude and wavelength",
+    "Correct": "Same wave length with constant phase difference"
+  },
+  {
+    "question": "Sodium chloride in a flame gives out pure",
+    "A": "Blue light",
+    "B": "Yellow light",
+    "C": "Red light",
+    "D": "White light",
+    "Correct": "Yellow light"
+  },
+  {
+    "question": "When crest of one wave falls over the trough of the other wave, this phenomenon is known as",
+    "A": "Polarization",
+    "B": "Constructive interference",
+    "C": "Destructive interference",
+    "D": "Diffraction",
+    "Correct": "Destructive interference"
+  },
+  {
+    "question": "The condition for constructive interference of two coherent beams is that the path difference should be",
+    "A": "Integral multiple of λ/2",
+    "B": "Integral multiple of λ",
+    "C": "Odd Integral multiple of λ/2",
+    "D": "Even integral multiple of λ",
+    "Correct": "Integral multiple of λ"
+  },
+  {
+    "question": "The condition for destructive interference of two coherent beams is that the path difference should be",
+    "A": "Integral multiple of λ/2",
+    "B": "Integral multiple of λ",
+    "C": "Odd Integral multiple of λ/2",
+    "D": "Even integral multiple of λ",
+    "Correct": "Odd Integral multiple of λ/2"
+  },
+  {
+    "question": "In Young’s double slit experiment, the distance between two adjacent bright fringes, ∆𝑦 is:",
+    "A": "2𝜆𝐿/𝑑",
+    "B": "3𝜆𝐿/𝑑",
+    "C": "𝜆𝐿/2𝑑",
+    "D": "𝜆𝐿/𝑑",
+    "Correct": "𝜆𝐿/𝑑"
+  },
+  {
+    "question": "In Young double slit experiment, if white light is used",
+    "A": "Alternate dark and bright fringes will be seen",
+    "B": "Colored fringes will be seen",
+    "C": "No interference fringes will be seen",
+    "D": "Impossible to predict",
+    "Correct": "Colored fringes will be seen"
+  },
+  {
+    "question": "The center of Newton’s rings is_________ due to destructive interference",
+    "A": "Bright",
+    "B": "Dark",
+    "C": "Colorless",
+    "D": "Red",
+    "Correct": "Dark"
+  },
+  {
+    "question": "When the Newton’s rings are observed with reflected light, the central spot is:",
+    "A": "Red",
+    "B": "Blue",
+    "C": "Dark",
+    "D": "Bright",
+    "Correct": "Dark"
+  },
+  {
+    "question": "When the Newton’s rings are observed with transmitted light, the central spot is:",
+    "A": "Red",
+    "B": "Blue",
+    "C": "Dark",
+    "D": "Bright",
+    "Correct": "Bright"
+  },
+  {
+    "question": "The appearance of Color in thin films is due to",
+    "A": "Diffraction",
+    "B": "Dispersion",
+    "C": "Interference",
+    "D": "Polarization",
+    "Correct": "Interference"
+  },
+  {
+    "question": "Soap film exhibit brilliant colors in sun light due to:",
+    "A": "Dispersion of light",
+    "B": "Interference of light",
+    "C": "Diffraction of light",
+    "D": "Scattering of light",
+    "Correct": "Interference of light"
+  },
+  {
+    "question": "A light ray traveling from rarer to denser medium suffers a phase change of:",
+    "A": "60°",
+    "B": "90°",
+    "C": "180°",
+    "D": "45°",
+    "Correct": "180°"
+  },
+  {
+    "question": "A light ray traveling from denser to rarer medium suffers a phase change of:",
+    "A": "0°",
+    "B": "90°",
+    "C": "180°",
+    "D": "45°",
+    "Correct": "0°"
+  },
+  {
+    "question": "One angstrom is equal to:",
+    "A": "10−9 𝑚",
+    "B": "10−8 𝑚",
+    "C": "10−10 𝑚",
+    "D": "10−11 𝑚",
+    "Correct": "10−10 𝑚"
+  },
+  {
+    "question": "2𝑑sin𝜃 = 𝑚𝜆 is called:",
+    "A": "Laplace’s equation",
+    "B": "Reflection equation",
+    "C": "Refraction equation",
+    "D": "Bragg’s equation",
+    "Correct": "Bragg’s equation"
+  },
+  {
+    "question": "𝑑sin𝜃 = 𝑚𝜆 is called:",
+    "A": "Laplace’s equation",
+    "B": "Slit Diffraction Condition",
+    "C": "Refraction equation",
+    "D": "Bragg’s equation",
+    "Correct": "Slit Diffraction Condition"
+  },
+  {
+    "question": "Bending of light around the edges of an obstacle is known as:",
+    "A": "Refraction",
+    "B": "Polarization",
+    "C": "Diffraction",
+    "D": "Interference",
+    "Correct": "Diffraction"
+  },
+  {
+    "question": "The bending of a beam of light when it passes from one medium to another is known as:",
+    "A": "Refraction",
+    "B": "Reflection",
+    "C": "Diffraction",
+    "D": "Dispersion",
+    "Correct": "Refraction"
+  },
+  {
+    "question": "The effective path difference between two reflected beams, in x-ray diffraction by crystal is:",
+    "A": "𝑑sin𝜃",
+    "B": "2𝑑sin𝜃",
+    "C": "𝑑sin𝜃/2",
+    "D": "𝑑sin2𝜃",
+    "Correct": "2𝑑sin𝜃"
+  },
+  {
+    "question": "The equation of Michelson’s interferometer is:",
+    "A": "𝐿 =𝑚𝜆/2",
+    "B": "𝐿 =𝑚𝜆/4",
+    "C": "𝐿 =𝑚𝜆",
+    "D": "𝐿 =2𝑚𝜆",
+    "Correct": "𝐿 =𝑚𝜆/2"
+  },
+  {
+    "question": "Area under the curve of force-displacement graph is equal to:",
+    "A": "Displacement",
+    "B": "Work",
+    "C": "Power",
+    "D": "Energy",
+    "Correct": "Work"
+  },
+  {
+    "question": "Slope of work time graph is equal to:",
+    "A": "Displacement",
+    "B": "Acceleration",
+    "C": "Power",
+    "D": "Energy",
+    "Correct": "Power"
+  },
+  {
+    "question": "Work done will be maximum if the angle between the force F and displacement d is:",
+    "A": "45°",
+    "B": "90°",
+    "C": "180°",
+    "D": "0°",
+    "Correct": "0°"
+  },
+  {
+    "question": "A field will be conservative when work done:",
+    "A": "By centripetal force is zero",
+    "B": "By a frictional force is negative",
+    "C": "By force perpendicular to the displacement is zero",
+    "D": "In a close path is zero",
+    "Correct": "In a close path is zero"
+  },
+  {
+    "question": "A field in which the work done in moving a body along a closed path is zero is called:",
+    "A": "Electric field",
+    "B": "Conservative field",
+    "C": "Electromagnetic field",
+    "D": "Maximum",
+    "Correct": "Conservative field"
+  },
+  {
+    "question": "When a force is parallel to the direction of motion of the body, then work done on the body is:",
+    "A": "Zero",
+    "B": "Minimum",
+    "C": "Infinity",
+    "D": "Maximum",
+    "Correct": "Maximum"
+  },
+  {
+    "question": "The work done is said to be negative when force and displacement are:",
+    "A": "Parallel",
+    "B": "Anti-parallel",
+    "C": "Perpendicular",
+    "D": "",
+    "Correct": "Anti-parallel"
+  },
+  {
+    "question": "Which of the following is not a conservative force?",
+    "A": "Friction",
+    "B": "Electric",
+    "C": "Gravitational",
+    "D": "Magnetic",
+    "Correct": "Friction"
+  },
+  {
+    "question": "Which of the following types of force can do no work on the particle on which it acts?",
+    "A": "Frictional force",
+    "B": "Gravitational force",
+    "C": "Elastic force",
+    "D": "Centripetal force",
+    "Correct": "Centripetal force"
+  },
+  {
+    "question": "Work has the dimension as that of same as:",
+    "A": "Torque",
+    "B": "Angular momentum",
+    "C": "Linear momentum",
+    "D": "Power",
+    "Correct": "Torque"
+  },
+  {
+    "question": "The average power and instantaneous power become equal if work is done at:",
+    "A": "Any rate",
+    "B": "At variable rate",
+    "C": "At uniform rate",
+    "D": "At high rate",
+    "Correct": "At uniform rate"
+  },
+  {
+    "question": "The relation between horse power and watt is:",
+    "A": "1 hp = 546 watts",
+    "B": "1 hp = 746 watts",
+    "C": "1 hp = 1000 watts",
+    "D": "1 hp = 946 watts",
+    "Correct": "1 hp = 746 watts"
+  },
+  {
+    "question": "If mass of a moving object is doubled, its K.E becomes:",
+    "A": "2 times",
+    "B": "4 times",
+    "C": "5 times",
+    "D": "16 times",
+    "Correct": "4 times"
+  },
+  {
+    "question": "Work done on the body equals to the:",
+    "A": "Change in its K.E always",
+    "B": "Change in its P.E always",
+    "C": "Change in its K.E and change in its P.E",
+    "D": "Neither change in K.E nor change in its P.E",
+    "Correct": "Neither change in K.E nor change in its P.E"
+  },
+  {
+    "question": "Work done by the force of friction is:",
+    "A": "Always positive",
+    "B": "Always negative",
+    "C": "Positive only for small frictional force",
+    "D": "Positive only for large frictional force",
+    "Correct": "Always negative"
+  },
+  {
+    "question": "The consumption of energy by a 60-watt bulb in 2 seconds is:",
+    "A": "20 J",
+    "B": "120 J",
+    "C": "30 J",
+    "D": "0.02 J",
+    "Correct": "120 J"
+  },
+  {
+    "question": "Power is also defined as dot product of:",
+    "A": "Force and displacement",
+    "B": "Force and mass",
+    "C": "Force and velocity",
+    "D": "Force and time",
+    "Correct": "Force and velocity"
+  },
+  {
+    "question": "One kilowatt hour of work is equal to:",
+    "A": "0.36 MJ",
+    "B": "3.6 MJ",
+    "C": "36 MJ",
+    "D": "360 MJ",
+    "Correct": "3.6 MJ"
+  },
+  {
+    "question": "One megawatt hour is equal to:",
+    "A": "3.6x10⁶ J",
+    "B": "3.6x10¹² J",
+    "C": "3.6x10⁹ J",
+    "D": "3.6x10⁸ J",
+    "Correct": "3.6x10⁹ J"
+  },
+  {
+    "question": "The escape velocity from the earth surface in km/s is:",
+    "A": "4.2 km/s",
+    "B": "7.5 km/s",
+    "C": "9.5 km/s",
+    "D": "11 km/s",
+    "Correct": "11 km/s"
+  },
+  {
+    "question": "The work done by the force of 10N applied parallel to direction of motion up to 20 m is:",
+    "A": "10 J",
+    "B": "20 J",
+    "C": "200 J",
+    "D": "2000 J",
+    "Correct": "200 J"
+  },
+  {
+    "question": "The SI unit of power is:",
+    "A": "Joule",
+    "B": "Horsepower",
+    "C": "kWh",
+    "D": "Watt",
+    "Correct": "Watt"
+  },
+  {
+    "question": "The original source of tidal energy is:",
+    "A": "Moon",
+    "B": "Earth",
+    "C": "Sun",
+    "D": "Sea",
+    "Correct": "Moon"
+  },
+  {
+    "question": "The energy stored in the spring of a watch is:",
+    "A": "K.E",
+    "B": "Electrical Energy",
+    "C": "Elastic P.E",
+    "D": "Solar Energy",
+    "Correct": "Elastic P.E"
+  },
+  {
+    "question": "Work-energy equation can be expressed as:",
+    "A": "Fa = K.Ef − K.Ei",
+    "B": "ma = K.Ef² − K.Ei²",
+    "C": "Fd = K.Ef − K.Ei",
+    "D": "F.V = K.Ef − K.Ei",
+    "Correct": "Fd = K.Ef − K.Ei"
+  },
+  {
+    "question": "The tides raise the water in the sea roughly in a day:",
+    "A": "Once",
+    "B": "Twice",
+    "C": "Four times",
+    "D": "Eight times",
+    "Correct": "Twice"
+  },
+  {
+    "question": "The source of geothermal energy is:",
+    "A": "Decay of radioactive element in the earth",
+    "B": "Compression of material in the earth",
+    "C": "Residual lost of the earth",
+    "D": "All as said in a, b, and c",
+    "Correct": "All as said in a, b, and c"
+  },
+  {
+    "question": "Heat is the form of:",
+    "A": "Power",
+    "B": "Work",
+    "C": "Energy",
+    "D": "Motion",
+    "Correct": "Energy"
+  },
+  {
+    "question": "Pressure of the gas depends upon:",
+    "A": "Only on molecular speed",
+    "B": "Only on mass of molecule",
+    "C": "Only on number of molecules in a unit volume",
+    "D": "Number of molecules in a unit volume mass and speed of molecule",
+    "Correct": "Number of molecules in a unit volume mass and speed of molecule"
+  },
+  {
+    "question": "In the isothermal process, one of the following is constant:",
+    "A": "Pressure",
+    "B": "Volume",
+    "C": "Temperature",
+    "D": "Heat energy",
+    "Correct": "Temperature"
+  },
+  {
+    "question": "A process in which no heat enters or leaves the system is called:",
+    "A": "Isothermal process",
+    "B": "Adiabatic process",
+    "C": "Isochoric process",
+    "D": "Isobaric process",
+    "Correct": "Adiabatic process"
+  },
+  {
+    "question": "For a gas obeying Boyle’s law, if the pressure is doubled, the volume becomes:",
+    "A": "Double",
+    "B": "One half",
+    "C": "Four times",
+    "D": "One fourth",
+    "Correct": "One fourth"
+  },
+  {
+    "question": "Which one is true for internal energy?",
+    "A": "It is sum of all forms of energies associated with molecules of a system.",
+    "B": "It is a state function of a system",
+    "C": "It is proportional to transnational K.E of the molecules",
+    "D": "All are correct",
+    "Correct": "All are correct"
+  },
+  {
+    "question": "The internal energy of an ideal gas is directly proportional to:",
+    "A": "Potential energy",
+    "B": "Translational kinetic energy",
+    "C": "Vibrational kinetic energy",
+    "D": "None of these",
+    "Correct": "Translational kinetic energy"
+  },
+  {
+    "question": "Which one is correct relation?",
+    "A": "𝐶𝑃 +𝐶𝑉 = 𝛾",
+    "B": "𝐶𝑃 = 1+𝑅/𝐶𝑉",
+    "C": "𝛾 = 𝐶𝑃/𝐶𝑉",
+    "D": "𝐶𝑃 = 1−𝑅/𝐶𝑉",
+    "Correct": "𝛾 = 𝐶𝑃/𝐶𝑉"
+  },
+  {
+    "question": "Specific heats of a gas at constant pressure and at constant volume are respectively Cp and Cv :",
+    "A": "Cp < Cv",
+    "B": "Cp > Cv",
+    "C": "Cp = Cv",
+    "D": "none of these",
+    "Correct": "Cp > Cv"
+  },
+  {
+    "question": "Gas law PVγ = constant is for:",
+    "A": "Isothermal process",
+    "B": "Adiabatic process",
+    "C": "Isobaric process",
+    "D": "Isochoric process",
+    "Correct": "Adiabatic process"
+  },
+  {
+    "question": "Cloud formation in the atmosphere is example of:",
+    "A": "Adiabatic process",
+    "B": "Isothermal process",
+    "C": "Isochoric process",
+    "D": "Isobaric process",
+    "Correct": "Adiabatic process"
+  },
+  {
+    "question": "Boyle’s law holds for ideal gases in.",
+    "A": "Isochoric processes",
+    "B": "Isobaric processes",
+    "C": "Isothermal processes",
+    "D": "Adiabatic processes",
+    "Correct": "Isothermal processes"
+  },
+  {
+    "question": "Numerical value of Boltzmann’s constant is.",
+    "A": "1.38×10−31𝐽𝐾−1",
+    "B": "3.18×10−31𝐽𝐾−1",
+    "C": "3.18×10−23𝐽𝐾−1",
+    "D": "1.38×10−23𝐽𝐾−1",
+    "Correct": "1.38×10−23𝐽𝐾−1"
+  },
+  {
+    "question": "The first law of thermodynamics is an expression of:",
+    "A": "The conservation of energy",
+    "B": "Conservation of mass",
+    "C": "Heat death of the universe",
+    "D": "Degradation of energy",
+    "Correct": "The conservation of energy"
+  },
+  {
+    "question": "The amount of heat required raising the temperature of 1 kg of a substance through 1 K is called",
+    "A": "Specific heat",
+    "B": "Heat capacity",
+    "C": "Calorie",
+    "D": "Joule",
+    "Correct": "Joule"
+  },
+  {
+    "question": "The expression for isothermal process is:",
+    "A": "𝑄=𝑈",
+    "B": "𝑄=𝑊",
+    "C": "𝑈=𝑊",
+    "D": "𝑈=−𝑊",
+    "Correct": "𝑄=𝑊"
+  },
+  {
+    "question": "In adiabatic expansion, first law of thermodynamics becomes:",
+    "A": "∆𝑄 =∆𝑊",
+    "B": "∆𝑄 =∆𝑈",
+    "C": "∆𝑊=∆𝑈",
+    "D": "None of these",
+    "Correct": "∆𝑄 =∆𝑈"
+  },
+  {
+    "question": "The Celsius scale starts from:",
+    "A": "32°𝐹",
+    "B": "273 𝐾",
+    "C": "0°𝐶",
+    "D": "373 𝐾",
+    "Correct": "0°𝐶"
+  },
+  {
+    "question": "Unit of thermodynamic scale of temperature is:",
+    "A": "Kelvin",
+    "B": "Centigrade",
+    "C": "Fahrenheit",
+    "D": "Celsius",
+    "Correct": "Kelvin"
+  },
+  {
+    "question": "Normal human body temperature 98.6oF corresponds to.",
+    "A": "37oC",
+    "B": "42 oC",
+    "C": "55 oC",
+    "D": "410 oC",
+    "Correct": "37oC"
+  },
+  {
+    "question": "Triple point of water is.",
+    "A": "373.16 𝐾",
+    "B": "284.16 𝐾",
+    "C": "300.16 𝐾",
+    "D": "273.16 𝐾",
+    "Correct": "273.16 𝐾"
+  },
+  {
+    "question": "Carnot cycle is:",
+    "A": "Reversible",
+    "B": "Irreversible",
+    "C": "Both",
+    "D": "None of these",
+    "Correct": "Reversible"
+  },
+  {
+    "question": "The efficiency of diesel engine is about:",
+    "A": "50% to 60%",
+    "B": "25% to 30%",
+    "C": "35% to 40%",
+    "D": "40% to 50%",
+    "Correct": "50% to 60%"
+  },
+  {
+    "question": "The efficiency of petrol engine is about:",
+    "A": "30% to 35%",
+    "B": "25% to 30%",
+    "C": "35% to 40%",
+    "D": "None of these",
+    "Correct": "35% to 40%"
+  },
+  {
+    "question": "The efficiency of a Carnot engine between HTR at T1 and LTR at T2 is given by:",
+    "A": "1 − T2/T1",
+    "B": "1 − T1/T2",
+    "C": "1 − T1/T2",
+    "D": "1 − T2/T1",
+    "Correct": "1 − T2/T1"
+  },
+  {
+    "question": "Working cycle of a typical petrol engine consists of:",
+    "A": "Two strokes",
+    "B": "Four strokes",
+    "C": "Six strokes",
+    "D": "Eight strokes",
+    "Correct": "Four strokes"
+  },
+  {
+    "question": "If the temperature of the sink is decreased, the efficiency of Carnot engine:",
+    "A": "Decreases",
+    "B": "Increases",
+    "C": "Remains the same",
+    "D": "First increases and then decreases",
+    "Correct": "Increases"
+  },
+  {
+    "question": "The area enclosed by the curve ABCDA for a Carnot heat engine represents the work done by Carnot engine.",
+    "A": "At any instant",
+    "B": "Averagely",
+    "C": "During its operation",
+    "D": "During one cycle",
+    "Correct": "During one cycle"
+  },
+  {
+    "question": "The unit of entropy is:",
+    "A": "𝐽𝐾",
+    "B": "𝐾/𝐽",
+    "C": "𝐽/𝐾",
+    "D": "𝐽/𝐾²",
+    "Correct": "𝐽/𝐾"
+  },
+  {
+    "question": "Mathematically, entropy is represented by:",
+    "A": "∆𝑄 =∆𝑆/𝑇",
+    "B": "∆𝑆 =∆𝑄/𝑇",
+    "C": "∆𝑆 =∆𝑄.𝑇",
+    "D": "∆𝑆 =∆𝑇/𝑄",
+    "Correct": "∆𝑆 =∆𝑄/𝑇"
+  },
+  {
+    "question": "The increase in the entropy means the increase in:",
+    "A": "Disorder",
+    "B": "Unavailability of energy",
+    "C": "Randomness",
+    "D": "All of these",
+    "Correct": "All of these"
+  },
+  {
+    "question": "The property of a system that remains constant during an adiabatic process is called:",
+    "A": "Internal energy",
+    "B": "Entropy",
+    "C": "Temperature",
+    "D": "Pressure",
+    "Correct": "Internal energy"
+  },
+  {
+    "question": "In which process entropy remains constant.",
+    "A": "Isobaric",
+    "B": "Isochoric",
+    "C": "Adiabatic",
+    "D": "Isothermal",
+    "Correct": "Adiabatic"
+  },
+  {
+    "question": "When heat is added to the system, the entropy change is:",
+    "A": "Positive",
+    "B": "Negative",
+    "C": "Zero",
+    "D": "None of these",
+    "Correct": "Positive"
+  },
+  {
+    "question": "Which one is a vector?",
+    "A": "Length",
+    "B": "Volume",
+    "C": "Velocity",
+    "D": "Work",
+    "Correct": "Velocity"
+  },
+  {
+    "question": "An example of scalar quantity is",
+    "A": "Displacement",
+    "B": "Speed",
+    "C": "Velocity",
+    "D": "Torque",
+    "Correct": "Speed"
+  },
+  {
+    "question": "Name the quantity which is vector",
+    "A": "Density",
+    "B": "Power",
+    "C": "Charge",
+    "D": "Moment of Force",
+    "Correct": "Moment of Force"
+  },
+  {
+    "question": "Rectangular coordinate system is also called",
+    "A": "Polar coordinate system",
+    "B": "Cartesian coordinate system",
+    "C": "Cylindrical coordinate system",
+    "D": "Space coordinate system",
+    "Correct": "Cartesian coordinate system"
+  },
+  {
+    "question": "The direction of a vector in space is specified by",
+    "A": "One angle",
+    "B": "Two angles",
+    "C": "Three angles",
+    "D": "No angle",
+    "Correct": "Three angles"
+  },
+  {
+    "question": "If both components of a vector are negative, then resultant lies in",
+    "A": "1st quadrant",
+    "B": "2nd quadrant",
+    "C": "3rd quadrant",
+    "D": "4th quadrant",
+    "Correct": "3rd quadrant"
+  },
+  {
+    "question": "In which quadrant the two rectangular components of a vector have same sign?",
+    "A": "1st",
+    "B": "2nd",
+    "C": "both 1st and 3rd",
+    "D": "4th",
+    "Correct": "both 1st and 3rd"
+  },
+  {
+    "question": "If the x-component of a vector is positive and y component is negative, then resultant vector lies in what quadrant?",
+    "A": "1st quadrant",
+    "B": "2nd quadrant",
+    "C": "3rd quadrant",
+    "D": "4th quadrant",
+    "Correct": "4th quadrant"
+  },
+  {
+    "question": "If vector A lies in the third quadrant, its direction will be",
+    "A": "180°",
+    "B": "360°",
+    "C": "180°+",
+    "D": "None of these",
+    "Correct": "180°+"
+  },
+  {
+    "question": "A single vector having the same effect as all the original vectors taken together is called",
+    "A": "Resultant vector",
+    "B": "Equal vector",
+    "C": "Position vector",
+    "D": "Unit vector",
+    "Correct": "Resultant vector"
+  },
+  {
+    "question": "When two vectors are anti-parallel, the angle between them is",
+    "A": "Zero",
+    "B": "180°",
+    "C": "90°",
+    "D": "270°",
+    "Correct": "180°"
+  },
+  {
+    "question": "The resultant of two forces 30 N and 40 N acting at an angle of 90° with each other is",
+    "A": "30 N",
+    "B": "40 N",
+    "C": "50 N",
+    "D": "70 N",
+    "Correct": "50 N"
+  },
+  {
+    "question": "The magnitude of the vector − + is",
+    "A": "Zero",
+    "B": "One",
+    "C": "Three",
+    "D": "None of these",
+    "Correct": "One"
+  },
+  {
+    "question": "If 6N force acts at right angle to 8N force, then the magnitude of resultant will be",
+    "A": "6N",
+    "B": "8N",
+    "C": "10N",
+    "D": "14N",
+    "Correct": "10N"
+  },
+  {
+    "question": "If A⃗ + B⃗ = B⃗+A⃗, this shows that addition of vectors is",
+    "A": "Associative",
+    "B": "Commutative",
+    "C": "Additive",
+    "D": "Additive inverse",
+    "Correct": "Commutative"
+  },
+  {
+    "question": "A body is in dynamic equilibrium only when it is",
+    "A": "At rest",
+    "B": "Moving with variable velocity",
+    "C": "Moving with uniform acceleration",
+    "D": "Moving with uniform velocity",
+    "Correct": "Moving with uniform velocity"
+  },
+  {
+    "question": "The unit vector along y-axis is",
+    "A": "i",
+    "B": "j",
+    "C": "k",
+    "D": "None of these",
+    "Correct": "j"
+  },
+  {
+    "question": "Mathematically, unit vector is described as",
+    "A": "A=A A⃗",
+    "B": "A=A⃗",
+    "C": "A=A⃗",
+    "D": "A=A⃗",
+    "Correct": "A=A A⃗"
+  },
+  {
+    "question": "A unit vector is obtained by dividing a vector with",
+    "A": "Its direction",
+    "B": "Its magnitude",
+    "C": "Its magnitude and direction",
+    "D": "None of these",
+    "Correct": "Its magnitude"
+  },
+  {
+    "question": "The unit vector in the direction of vector A = 2i - 2j + k is",
+    "A": "2i - 2j + k",
+    "B": "(2i - 2j + k) / 9",
+    "C": "(2i - 2j + k) / 3",
+    "D": "(2i - 2j + k) / 5",
+    "Correct": "(2i - 2j + k) / 3"
+  },
+  {
+    "question": "The magnitude of a vector A⃗ = i - j is",
+    "A": "i + j",
+    "B": "i - j",
+    "C": "j + i",
+    "D": "j - i",
+    "Correct": "j + i"
+  },
+  {
+    "question": "Vectors A is along y axis, its component along x axis is",
+    "A": "A",
+    "B": "A/2",
+    "C": "Zero",
+    "D": "2A",
+    "Correct": "Zero"
+  },
+  {
+    "question": "The angle between rectangular components of a vector is",
+    "A": "45°",
+    "B": "60°",
+    "C": "90°",
+    "D": "180°",
+    "Correct": "90°"
+  },
+  {
+    "question": "A force of 10N is acting along x-axis, its component along y-axis is",
+    "A": "10N",
+    "B": "5N",
+    "C": "8.66N",
+    "D": "Zero N",
+    "Correct": "Zero N"
+  },
+  {
+    "question": "If vector A⃗ is acting along y-axis, its y-component is",
+    "A": "A",
+    "B": "cos θ",
+    "C": "sin θ",
+    "D": "Zero",
+    "Correct": "A"
+  },
+  {
+    "question": "If A = 2i - j + 3k, then the magnitude of vector A is",
+    "A": 4,
+    "B": 14,
+    "C": "√14",
+    "D": "",
+    "Correct": "√14"
+  },
+  {
+    "question": "|2i - j - 3k| equals",
+    "A": "√5",
+    "B": "√7",
+    "C": "√11",
+    "D": "√13",
+    "Correct": "√13"
+  },
+  {
+    "question": "If A = 2i + j + 2k, then |A| is",
+    "A": "Zero",
+    "B": 3,
+    "C": 5,
+    "D": 9,
+    "Correct": 3
+  },
+  {
+    "question": "Dot product of two non-zero vectors is zero when the angle between them is",
+    "A": "0°",
+    "B": "30°",
+    "C": "45°",
+    "D": "90°",
+    "Correct": "90°"
+  },
+  {
+    "question": "The cross product i × j = j × k = k × i is equal to",
+    "A": 1,
+    "B": -1,
+    "C": "Zero",
+    "D": "",
+    "Correct": "Zero"
+  },
+  {
+    "question": "The scalar product of two vectors is maximum when they are",
+    "A": "Parallel",
+    "B": "Perpendicular",
+    "C": "Anti-parallel",
+    "D": "",
+    "Correct": "Parallel"
+  },
+  {
+    "question": "Two vectors A and B are making angle θ with each other. The projection of vector B on vector A is written as",
+    "A": "A⃗⋅B⃗/|A|",
+    "B": "A⃗⋅B⃗/|B|",
+    "C": "cos θ",
+    "D": "Both a and b are correct",
+    "Correct": "Both a and b are correct"
+  },
+  {
+    "question": "The projection of a vector B⃗ over A⃗ is",
+    "A": "cos θ",
+    "B": "cos θ",
+    "C": "sin θ",
+    "D": "sin θ",
+    "Correct": "cos θ"
+  },
+  {
+    "question": "If A = i + j + k and B = i + j + k, then A⋅B equals",
+    "A": 1,
+    "B": 2,
+    "C": 3,
+    "D": 0,
+    "Correct": 1
+  },
+  {
+    "question": "The magnitude of vector product is given by",
+    "A": "sin θ",
+    "B": "sin θ",
+    "C": "cos θ",
+    "D": "tan θ",
+    "Correct": "sin θ"
+  },
+  {
+    "question": "The direction of vector product is given by",
+    "A": "Head to tail rule",
+    "B": "Right hand rule",
+    "C": "Left hand rule",
+    "D": "Triangular rule",
+    "Correct": "Right hand rule"
+  },
+  {
+    "question": "The cross product i × i is equal to",
+    "A": "zero",
+    "B": "one",
+    "C": "#NAME?",
+    "D": "i",
+    "Correct": "zero"
+  },
+  {
+    "question": "Torque has zero value if the angle between r and F is",
+    "A": "0°",
+    "B": "90°",
+    "C": "270°",
+    "D": "180°",
+    "Correct": "0°"
+  },
+  {
+    "question": "i⋅(j × k) equals",
+    "A": 1,
+    "B": 0,
+    "C": -1,
+    "D": "#NAME?",
+    "Correct": 0
+  },
+  {
+    "question": "The cross product of vectors will be minimum when the angle between them is",
+    "A": "35°",
+    "B": "90°",
+    "C": "0°",
+    "D": "45°",
+    "Correct": "0°"
+  },
+  {
+    "question": "The direction of torque is",
+    "A": "Along position vector",
+    "B": "Parallel to the plane containing r and F",
+    "C": "Along force",
+    "D": "Perpendicular to the plane containing r and F",
+    "Correct": "Perpendicular to the plane containing r and F"
+  },
+  {
+    "question": "A⃗×A⃗ is",
+    "A": "A",
+    "B": "i",
+    "C": "j",
+    "D": "Zero",
+    "Correct": "Zero"
+  },
+  {
+    "question": "If the position and force are in the same direction, then torque will be",
+    "A": "Maximum",
+    "B": "Minimum",
+    "C": "Same",
+    "D": "Negative",
+    "Correct": "Minimum"
+  },
+  {
+    "question": "The direction of torque can be found by",
+    "A": "Head to tail rule",
+    "B": "Right hand rule",
+    "C": "Left hand rule",
+    "D": "Fleming rule",
+    "Correct": "Right hand rule"
+  },
+  {
+    "question": "At what angle will two vectors of the same magnitude give a resultant of the same magnitude?",
+    "A": "45°",
+    "B": "90°",
+    "C": "120°",
+    "D": "180°",
+    "Correct": "120°"
+  },
+  {
+    "question": "If the line of action of force passes through axis of rotation, then its torque is",
+    "A": "Maximum",
+    "B": "Unity",
+    "C": "Zero",
+    "D": "None of these",
+    "Correct": "Zero"
+  },
+  {
+    "question": "The magnitude of a vector can never be",
+    "A": "Positive",
+    "B": "Negative",
+    "C": "Positive and negative",
+    "D": "None of these",
+    "Correct": "Negative"
+  },
+  {
+    "question": "The minimum number of unequal forces whose resultant will be zero is",
+    "A": 2,
+    "B": 3,
+    "C": 4,
+    "D": 5,
+    "Correct": 3
+  },
+  {
+    "question": "Torque is defined as",
+    "A": "Turning effect of force",
+    "B": "Cross product of force and position vector",
+    "C": "Product of force and moment arm",
+    "D": "All of the above",
+    "Correct": "All of the above"
+  },
+  {
+    "question": "SI unit of torque is",
+    "A": "Nm-1",
+    "B": "Nm",
+    "C": "Nm-2",
+    "D": "",
+    "Correct": "Nm"
+  },
+  {
+    "question": "A body will be in complete equilibrium when it satisfies",
+    "A": "1st condition",
+    "B": "2nd condition",
+    "C": "Both 1st and 2nd",
+    "D": "",
+    "Correct": "Both 1st and 2nd"
+  },
+  {
+    "question": "For a body to be in complete equilibrium",
+    "A": "a=0 & α=0",
+    "B": "∑F=0",
+    "C": "∑τ=0",
+    "D": "",
+    "Correct": "∑τ=0"
+  },
+  {
+    "question": "If a body is at rest, then it is in",
+    "A": "Static equilibrium",
+    "B": "Dynamic equilibrium",
+    "C": "Translational equilibrium",
+    "D": "Unstable equilibrium",
+    "Correct": "Static equilibrium"
+  },
+  {
+    "question": "The magnitudes of rectangular components are equal if its angle with x-axis is",
+    "A": "45°",
+    "B": "90°",
+    "C": "30°",
+    "D": "0°",
+    "Correct": "45°"
+  },
+  {
+    "question": "If A = B, then the angle with x-axis is",
+    "A": "0°",
+    "B": "30°",
+    "C": "45°",
+    "D": "90°",
+    "Correct": "45°"
+  },
+  {
+    "question": "The angle between two equal forces with a resultant equal to the force magnitude is",
+    "A": "30°",
+    "B": "60°",
+    "C": "90°",
+    "D": "120°",
+    "Correct": "120°"
+  },
+  {
+    "question": "The angle between vectors with dot product 6√3 and cross product 6 is",
+    "A": "0°",
+    "B": "30°",
+    "C": "45°",
+    "D": "60°",
+    "Correct": "30°"
+  },
+  {
+    "question": "The magnitude of cross-product and dot-product of vectors being equal means the angle is",
+    "A": "Zero",
+    "B": "45°",
+    "C": "90°",
+    "D": "180°",
+    "Correct": "45°"
+  },
+  {
+    "question": "Resultant of two vectors with magnitudes 60 N and 35 N is",
+    "A": "15 N",
+    "B": "20 N",
+    "C": "70 N",
+    "D": "100 N",
+    "Correct": "70 N"
+  }
+]

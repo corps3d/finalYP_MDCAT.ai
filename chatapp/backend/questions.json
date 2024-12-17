@@ -1,0 +1,25 @@
+[
+    {
+      "question": "The Study of cells at molecular level is called",
+      "options": {
+        "A": "Morphology",
+        "B": "Palaentology",
+        "C": "Molecular Biology",
+        "D": "Microbiology"
+      },
+      "correct": "C",
+      "subject": "Biology"
+    },
+    {
+      "question": "Microbiology deals with the study of",
+      "options": {
+        "A": "Algae, Bacteria",
+        "B": "Fungi, Protozoa",
+        "C": "Viruses",
+        "D": "All of them"
+      },
+      "correct": "D",
+      "subject": "Biology"
+    }
+  ]
+  
